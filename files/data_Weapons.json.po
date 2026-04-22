@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weapons.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["Short Sword",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"0","tags":null}
+#. Weapons/1/name
+msgctxt "tpp:data/Weapons.json:0"
+msgid "Short Sword"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Sword] A light and easy-to-wield short-bladed sword.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"1","tags":null}
+#. Weapons/1/description
+msgctxt "tpp:data/Weapons.json:1"
+msgid "[Sword] A light and easy-to-wield short-bladed sword."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Long Sword",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"2","tags":null}
+#. Weapons/2/name
+msgctxt "tpp:data/Weapons.json:2"
+msgid "Long Sword"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Sword] A long battle sword boasting a sharp cut.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"3","tags":null}
+#. Weapons/2/description
+msgctxt "tpp:data/Weapons.json:3"
+msgid "[Sword] A long battle sword boasting a sharp cut."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Falchion",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"4","tags":null}
+#. Weapons/3/name
+msgctxt "tpp:data/Weapons.json:4"
+msgid "Falchion"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Sword] A wide sword with a curved blade.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"5","tags":null}
+#. Weapons/3/description
+msgctxt "tpp:data/Weapons.json:5"
+msgid "[Sword] A wide sword with a curved blade."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Sword",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"6","tags":null}
+#. Weapons/4/name
+msgctxt "tpp:data/Weapons.json:6"
+msgid "Mithril Sword"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Sword] A long sword forged with mithril.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"7","tags":null}
+#. Weapons/4/description
+msgctxt "tpp:data/Weapons.json:7"
+msgid "[Sword] A long sword forged with mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Blade",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"8","tags":null}
+#. Weapons/5/name
+msgctxt "tpp:data/Weapons.json:8"
+msgid "Dragon Blade"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Sword] A sword forged from the fangs of a dragon.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"9","tags":null}
+#. Weapons/5/description
+msgctxt "tpp:data/Weapons.json:9"
+msgid "[Sword] A sword forged from the fangs of a dragon."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wooden Staff",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"10","tags":null}
+#. Weapons/7/name
+msgctxt "tpp:data/Weapons.json:10"
+msgid "Wooden Staff"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Staff] An inexpensive and widely-used staff.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"11","tags":null}
+#. Weapons/7/description
+msgctxt "tpp:data/Weapons.json:11"
+msgid "[Staff] An inexpensive and widely-used staff."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magic Wand",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"12","tags":null}
+#. Weapons/8/name
+msgctxt "tpp:data/Weapons.json:12"
+msgid "Magic Wand"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Staff] A wand that slightly increases its wielder’s\nmagical powers.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"13","tags":null}
+#. Weapons/8/description
+msgctxt "tpp:data/Weapons.json:13"
+msgid ""
+"[Staff] A wand that slightly increases its wielder’s\n"
+"magical powers."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Force Wand",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"14","tags":null}
+#. Weapons/9/name
+msgctxt "tpp:data/Weapons.json:14"
+msgid "Force Wand"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Staff] A silver wand that increases its wielder’s\nmagical powers.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"15","tags":null}
+#. Weapons/9/description
+msgctxt "tpp:data/Weapons.json:15"
+msgid ""
+"[Staff] A silver wand that increases its wielder’s\n"
+"magical powers."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Rod",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"16","tags":null}
+#. Weapons/10/name
+msgctxt "tpp:data/Weapons.json:16"
+msgid "Mithril Rod"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Staff] A mithril rod that increases its wielder’s\nmagical powers.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"17","tags":null}
+#. Weapons/10/description
+msgctxt "tpp:data/Weapons.json:17"
+msgid ""
+"[Staff] A mithril rod that increases its wielder’s\n"
+"magical powers."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Staff",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"18","tags":null}
+#. Weapons/11/name
+msgctxt "tpp:data/Weapons.json:18"
+msgid "Dragon Staff"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Staff] A dragon staff that increases its wielder’s\nmagical powers.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"19","tags":null}
+#. Weapons/11/description
+msgctxt "tpp:data/Weapons.json:19"
+msgid ""
+"[Staff] A dragon staff that increases its wielder’s\n"
+"magical powers."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stone Flail",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"20","tags":null}
+#. Weapons/13/name
+msgctxt "tpp:data/Weapons.json:20"
+msgid "Stone Flail"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Flail] A flail with a stone head attached to its\nhandle with a chain.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"21","tags":null}
+#. Weapons/13/description
+msgctxt "tpp:data/Weapons.json:21"
+msgid ""
+"[Flail] A flail with a stone head attached to its\n"
+"handle with a chain."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bronze Flail",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"22","tags":null}
+#. Weapons/14/name
+msgctxt "tpp:data/Weapons.json:22"
+msgid "Bronze Flail"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Flail] A flail with a bronze head attached to its\nhandle with a chain.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"23","tags":null}
+#. Weapons/14/description
+msgctxt "tpp:data/Weapons.json:23"
+msgid ""
+"[Flail] A flail with a bronze head attached to its\n"
+"handle with a chain."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Morning Star",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"24","tags":null}
+#. Weapons/15/name
+msgctxt "tpp:data/Weapons.json:24"
+msgid "Morning Star"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Flail] A flail that has been strengthened with steel.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"25","tags":null}
+#. Weapons/15/description
+msgctxt "tpp:data/Weapons.json:25"
+msgid "[Flail] A flail that has been strengthened with steel."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Flail",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"26","tags":null}
+#. Weapons/16/name
+msgctxt "tpp:data/Weapons.json:26"
+msgid "Mithril Flail"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Flail] A flail that has been strengthened with mithril.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"27","tags":null}
+#. Weapons/16/description
+msgctxt "tpp:data/Weapons.json:27"
+msgid "[Flail] A flail that has been strengthened with mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Flail",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"28","tags":null}
+#. Weapons/17/name
+msgctxt "tpp:data/Weapons.json:28"
+msgid "Dragon Flail"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Flail] A flail that has been strengthened using fangs of a dragon.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"29","tags":null}
+#. Weapons/17/description
+msgctxt "tpp:data/Weapons.json:29"
+msgid "[Flail] A flail that has been strengthened using fangs of a dragon."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hand Axe",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"30","tags":null}
+#. Weapons/19/name
+msgctxt "tpp:data/Weapons.json:30"
+msgid "Hand Axe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Axe] A small axe used for logging trees.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"31","tags":null}
+#. Weapons/19/description
+msgctxt "tpp:data/Weapons.json:31"
+msgid "[Axe] A small axe used for logging trees."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Battle Axe",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"32","tags":null}
+#. Weapons/20/name
+msgctxt "tpp:data/Weapons.json:32"
+msgid "Battle Axe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Axe] A double-edged axe made for battle.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"33","tags":null}
+#. Weapons/20/description
+msgctxt "tpp:data/Weapons.json:33"
+msgid "[Axe] A double-edged axe made for battle."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bardiche",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"34","tags":null}
+#. Weapons/21/name
+msgctxt "tpp:data/Weapons.json:34"
+msgid "Bardiche"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Axe] A battle axe with a crescent-shaped blade.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"35","tags":null}
+#. Weapons/21/description
+msgctxt "tpp:data/Weapons.json:35"
+msgid "[Axe] A battle axe with a crescent-shaped blade."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Axe",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"36","tags":null}
+#. Weapons/22/name
+msgctxt "tpp:data/Weapons.json:36"
+msgid "Mithril Axe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Axe] A battle axe forged with mithril.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"37","tags":null}
+#. Weapons/22/description
+msgctxt "tpp:data/Weapons.json:37"
+msgid "[Axe] A battle axe forged with mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Axe",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"38","tags":null}
+#. Weapons/23/name
+msgctxt "tpp:data/Weapons.json:38"
+msgid "Dragon Axe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Axe] A battle axe forged from the fangs of a dragon.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"39","tags":null}
+#. Weapons/23/description
+msgctxt "tpp:data/Weapons.json:39"
+msgid "[Axe] A battle axe forged from the fangs of a dragon."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Short Spear",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"40","tags":null}
+#. Weapons/25/name
+msgctxt "tpp:data/Weapons.json:40"
+msgid "Short Spear"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Spear] A short spear specialized for thrusting.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"41","tags":null}
+#. Weapons/25/description
+msgctxt "tpp:data/Weapons.json:41"
+msgid "[Spear] A short spear specialized for thrusting."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Long Spear",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"42","tags":null}
+#. Weapons/26/name
+msgctxt "tpp:data/Weapons.json:42"
+msgid "Long Spear"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Spear] A spear with the longest handle possible.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"43","tags":null}
+#. Weapons/26/description
+msgctxt "tpp:data/Weapons.json:43"
+msgid "[Spear] A spear with the longest handle possible."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Halberd",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"44","tags":null}
+#. Weapons/27/name
+msgctxt "tpp:data/Weapons.json:44"
+msgid "Halberd"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Spear] A spear with an axe-head at its tip.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"45","tags":null}
+#. Weapons/27/description
+msgctxt "tpp:data/Weapons.json:45"
+msgid "[Spear] A spear with an axe-head at its tip."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Spear",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"46","tags":null}
+#. Weapons/28/name
+msgctxt "tpp:data/Weapons.json:46"
+msgid "Mithril Spear"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Spear] A spear forged with mithril.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"47","tags":null}
+#. Weapons/28/description
+msgctxt "tpp:data/Weapons.json:47"
+msgid "[Spear] A spear forged with mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Spear",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"48","tags":null}
+#. Weapons/29/name
+msgctxt "tpp:data/Weapons.json:48"
+msgid "Dragon Spear"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Spear] A spear forged from the fangs of a dragon.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"49","tags":null}
+#. Weapons/29/description
+msgctxt "tpp:data/Weapons.json:49"
+msgid "[Spear] A spear forged from the fangs of a dragon."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cestus",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"50","tags":null}
+#. Weapons/31/name
+msgctxt "tpp:data/Weapons.json:50"
+msgid "Cestus"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Glove] A battle glove with spikes attached to its\nknuckles.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"51","tags":null}
+#. Weapons/31/description
+msgctxt "tpp:data/Weapons.json:51"
+msgid ""
+"[Glove] A battle glove with spikes attached to its\n"
+"knuckles."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bagh Naka",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"52","tags":null}
+#. Weapons/32/name
+msgctxt "tpp:data/Weapons.json:52"
+msgid "Bagh Naka"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Claw] A combat weapon with 4 short claws attached.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"53","tags":null}
+#. Weapons/32/description
+msgctxt "tpp:data/Weapons.json:53"
+msgid "[Claw] A combat weapon with 4 short claws attached."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Iron Claw",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"54","tags":null}
+#. Weapons/33/name
+msgctxt "tpp:data/Weapons.json:54"
+msgid "Iron Claw"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Claw] A combat weapon with iron talons attached.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"55","tags":null}
+#. Weapons/33/description
+msgctxt "tpp:data/Weapons.json:55"
+msgid "[Claw] A combat weapon with iron talons attached."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Claw",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"56","tags":null}
+#. Weapons/34/name
+msgctxt "tpp:data/Weapons.json:56"
+msgid "Mithril Claw"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Claw] A combat weapon with mithril talons attached.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"57","tags":null}
+#. Weapons/34/description
+msgctxt "tpp:data/Weapons.json:57"
+msgid "[Claw] A combat weapon with mithril talons attached."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Claw",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"58","tags":null}
+#. Weapons/35/name
+msgctxt "tpp:data/Weapons.json:58"
+msgid "Dragon Claw"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Claw] A combat weapon with dragon talons attached.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"59","tags":null}
+#. Weapons/35/description
+msgctxt "tpp:data/Weapons.json:59"
+msgid "[Claw] A combat weapon with dragon talons attached."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Short Bow",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"60","tags":null}
+#. Weapons/37/name
+msgctxt "tpp:data/Weapons.json:60"
+msgid "Short Bow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Bow] A short bow made for hunting.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"61","tags":null}
+#. Weapons/37/description
+msgctxt "tpp:data/Weapons.json:61"
+msgid "[Bow] A short bow made for hunting."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Long Bow",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"62","tags":null}
+#. Weapons/38/name
+msgctxt "tpp:data/Weapons.json:62"
+msgid "Long Bow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Bow] A long bow for battle with superior power.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"63","tags":null}
+#. Weapons/38/description
+msgctxt "tpp:data/Weapons.json:63"
+msgid "[Bow] A long bow for battle with superior power."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Crossbow",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"64","tags":null}
+#. Weapons/39/name
+msgctxt "tpp:data/Weapons.json:64"
+msgid "Crossbow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Bow] A crossbow that shoots arrows with powerful\nsprings.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"65","tags":null}
+#. Weapons/39/description
+msgctxt "tpp:data/Weapons.json:65"
+msgid ""
+"[Bow] A crossbow that shoots arrows with powerful\n"
+"springs."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Bow",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"66","tags":null}
+#. Weapons/40/name
+msgctxt "tpp:data/Weapons.json:66"
+msgid "Mithril Bow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Bow] A crossbow that shoots mithril arrows with\npowerful springs.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"67","tags":null}
+#. Weapons/40/description
+msgctxt "tpp:data/Weapons.json:67"
+msgid ""
+"[Bow] A crossbow that shoots mithril arrows with\n"
+"powerful springs."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Bow",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"68","tags":null}
+#. Weapons/41/name
+msgctxt "tpp:data/Weapons.json:68"
+msgid "Dragon Bow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Bow] A long bow for battle made with dragon’s\nwhiskers.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"69","tags":null}
+#. Weapons/41/description
+msgctxt "tpp:data/Weapons.json:69"
+msgid ""
+"[Bow] A long bow for battle made with dragon’s\n"
+"whiskers."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Knife",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"70","tags":null}
+#. Weapons/43/name
+msgctxt "tpp:data/Weapons.json:70"
+msgid "Knife"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Dagger] A knife used for day-to-day tasks.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"71","tags":null}
+#. Weapons/43/description
+msgctxt "tpp:data/Weapons.json:71"
+msgid "[Dagger] A knife used for day-to-day tasks."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Daggar",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"72","tags":null}
+#. Weapons/44/name
+msgctxt "tpp:data/Weapons.json:72"
+msgid "Daggar"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Dagger] A short blade used in close combat.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"73","tags":null}
+#. Weapons/44/description
+msgctxt "tpp:data/Weapons.json:73"
+msgid "[Dagger] A short blade used in close combat."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Machete",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"74","tags":null}
+#. Weapons/45/name
+msgctxt "tpp:data/Weapons.json:74"
+msgid "Machete"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Dagger] A dagger with a thicker, sturdier blade.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"75","tags":null}
+#. Weapons/45/description
+msgctxt "tpp:data/Weapons.json:75"
+msgid "[Dagger] A dagger with a thicker, sturdier blade."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Daggar",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"76","tags":null}
+#. Weapons/46/name
+msgctxt "tpp:data/Weapons.json:76"
+msgid "Mithril Daggar"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Dagger] A dagger forged with mithril.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"77","tags":null}
+#. Weapons/46/description
+msgctxt "tpp:data/Weapons.json:77"
+msgid "[Dagger] A dagger forged with mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Daggar",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"78","tags":null}
+#. Weapons/47/name
+msgctxt "tpp:data/Weapons.json:78"
+msgid "Dragon Daggar"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Dagger] A dagger forged from the fangs of a dragon.",""],"parameters":null}
+# {"path":"data/Weapons.json","row":"79","tags":null}
+#. Weapons/47/description
+msgctxt "tpp:data/Weapons.json:79"
+msgid "[Dagger] A dagger forged from the fangs of a dragon."
+msgstr ""

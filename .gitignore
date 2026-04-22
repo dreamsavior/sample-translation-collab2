@@ -1,0 +1,6 @@
+*.bak
+*.bak2
+*.bakx
+*.log
+.tpp-git/
+node_modules/

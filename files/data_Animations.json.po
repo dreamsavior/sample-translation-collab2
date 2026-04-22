@@ -1,0 +1,848 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Animations.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["Hit Physical",""],"parameters":null}
+# {"path":"data/Animations.json","row":"0","tags":null}
+#. Animations/1/name
+msgctxt "tpp:data/Animations.json:0"
+msgid "Hit Physical"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hit Effect",""],"parameters":null}
+# {"path":"data/Animations.json","row":"1","tags":null}
+#. Animations/2/name
+msgctxt "tpp:data/Animations.json:1"
+msgid "Hit Effect"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hit Fire",""],"parameters":null}
+# {"path":"data/Animations.json","row":"2","tags":null}
+#. Animations/3/name
+msgctxt "tpp:data/Animations.json:2"
+msgid "Hit Fire"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hit Ice",""],"parameters":null}
+# {"path":"data/Animations.json","row":"3","tags":null}
+#. Animations/4/name
+msgctxt "tpp:data/Animations.json:3"
+msgid "Hit Ice"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hit Thunder",""],"parameters":null}
+# {"path":"data/Animations.json","row":"4","tags":null}
+#. Animations/5/name
+msgctxt "tpp:data/Animations.json:4"
+msgid "Hit Thunder"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Physical",""],"parameters":null}
+# {"path":"data/Animations.json","row":"5","tags":null}
+#. Animations/6/name
+msgctxt "tpp:data/Animations.json:5"
+msgid "Slash Physical"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Effect",""],"parameters":null}
+# {"path":"data/Animations.json","row":"6","tags":null}
+#. Animations/7/name
+msgctxt "tpp:data/Animations.json:6"
+msgid "Slash Effect"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Fire",""],"parameters":null}
+# {"path":"data/Animations.json","row":"7","tags":null}
+#. Animations/8/name
+msgctxt "tpp:data/Animations.json:7"
+msgid "Slash Fire"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Ice",""],"parameters":null}
+# {"path":"data/Animations.json","row":"8","tags":null}
+#. Animations/9/name
+msgctxt "tpp:data/Animations.json:8"
+msgid "Slash Ice"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Thunder",""],"parameters":null}
+# {"path":"data/Animations.json","row":"9","tags":null}
+#. Animations/10/name
+msgctxt "tpp:data/Animations.json:9"
+msgid "Slash Thunder"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pierce Physical",""],"parameters":null}
+# {"path":"data/Animations.json","row":"10","tags":null}
+#. Animations/11/name
+msgctxt "tpp:data/Animations.json:10"
+msgid "Pierce Physical"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pierce Effect",""],"parameters":null}
+# {"path":"data/Animations.json","row":"11","tags":null}
+#. Animations/12/name
+msgctxt "tpp:data/Animations.json:11"
+msgid "Pierce Effect"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pierce Fire",""],"parameters":null}
+# {"path":"data/Animations.json","row":"12","tags":null}
+#. Animations/13/name
+msgctxt "tpp:data/Animations.json:12"
+msgid "Pierce Fire"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pierce Ice",""],"parameters":null}
+# {"path":"data/Animations.json","row":"13","tags":null}
+#. Animations/14/name
+msgctxt "tpp:data/Animations.json:13"
+msgid "Pierce Ice"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pierce Thunder",""],"parameters":null}
+# {"path":"data/Animations.json","row":"14","tags":null}
+#. Animations/15/name
+msgctxt "tpp:data/Animations.json:14"
+msgid "Pierce Thunder"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Claw Physical",""],"parameters":null}
+# {"path":"data/Animations.json","row":"15","tags":null}
+#. Animations/16/name
+msgctxt "tpp:data/Animations.json:15"
+msgid "Claw Physical"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Claw Effect",""],"parameters":null}
+# {"path":"data/Animations.json","row":"16","tags":null}
+#. Animations/17/name
+msgctxt "tpp:data/Animations.json:16"
+msgid "Claw Effect"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Claw Fire",""],"parameters":null}
+# {"path":"data/Animations.json","row":"17","tags":null}
+#. Animations/18/name
+msgctxt "tpp:data/Animations.json:17"
+msgid "Claw Fire"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Claw Ice",""],"parameters":null}
+# {"path":"data/Animations.json","row":"18","tags":null}
+#. Animations/19/name
+msgctxt "tpp:data/Animations.json:18"
+msgid "Claw Ice"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Claw Thunder",""],"parameters":null}
+# {"path":"data/Animations.json","row":"19","tags":null}
+#. Animations/20/name
+msgctxt "tpp:data/Animations.json:19"
+msgid "Claw Thunder"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hit Special 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"20","tags":null}
+#. Animations/21/name
+msgctxt "tpp:data/Animations.json:20"
+msgid "Hit Special 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hit Special 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"21","tags":null}
+#. Animations/22/name
+msgctxt "tpp:data/Animations.json:21"
+msgid "Hit Special 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Special 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"22","tags":null}
+#. Animations/23/name
+msgctxt "tpp:data/Animations.json:22"
+msgid "Slash Special 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Special 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"23","tags":null}
+#. Animations/24/name
+msgctxt "tpp:data/Animations.json:23"
+msgid "Slash Special 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash Special 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"24","tags":null}
+#. Animations/25/name
+msgctxt "tpp:data/Animations.json:24"
+msgid "Slash Special 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pierce Special 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"25","tags":null}
+#. Animations/26/name
+msgctxt "tpp:data/Animations.json:25"
+msgid "Pierce Special 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pierce Special 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"26","tags":null}
+#. Animations/27/name
+msgctxt "tpp:data/Animations.json:26"
+msgid "Pierce Special 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Claw Special",""],"parameters":null}
+# {"path":"data/Animations.json","row":"27","tags":null}
+#. Animations/28/name
+msgctxt "tpp:data/Animations.json:27"
+msgid "Claw Special"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Arrow Special",""],"parameters":null}
+# {"path":"data/Animations.json","row":"28","tags":null}
+#. Animations/29/name
+msgctxt "tpp:data/Animations.json:28"
+msgid "Arrow Special"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["General Special 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"29","tags":null}
+#. Animations/30/name
+msgctxt "tpp:data/Animations.json:29"
+msgid "General Special 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["General Special 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"30","tags":null}
+#. Animations/31/name
+msgctxt "tpp:data/Animations.json:30"
+msgid "General Special 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Breath",""],"parameters":null}
+# {"path":"data/Animations.json","row":"31","tags":null}
+#. Animations/32/name
+msgctxt "tpp:data/Animations.json:31"
+msgid "Breath"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pollen",""],"parameters":null}
+# {"path":"data/Animations.json","row":"32","tags":null}
+#. Animations/33/name
+msgctxt "tpp:data/Animations.json:32"
+msgid "Pollen"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["SonicWave",""],"parameters":null}
+# {"path":"data/Animations.json","row":"33","tags":null}
+#. Animations/34/name
+msgctxt "tpp:data/Animations.json:33"
+msgid "SonicWave"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fog",""],"parameters":null}
+# {"path":"data/Animations.json","row":"34","tags":null}
+#. Animations/35/name
+msgctxt "tpp:data/Animations.json:34"
+msgid "Fog"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Song",""],"parameters":null}
+# {"path":"data/Animations.json","row":"35","tags":null}
+#. Animations/36/name
+msgctxt "tpp:data/Animations.json:35"
+msgid "Song"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shout",""],"parameters":null}
+# {"path":"data/Animations.json","row":"36","tags":null}
+#. Animations/37/name
+msgctxt "tpp:data/Animations.json:36"
+msgid "Shout"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sweep",""],"parameters":null}
+# {"path":"data/Animations.json","row":"37","tags":null}
+#. Animations/38/name
+msgctxt "tpp:data/Animations.json:37"
+msgid "Sweep"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bodyslam",""],"parameters":null}
+# {"path":"data/Animations.json","row":"38","tags":null}
+#. Animations/39/name
+msgctxt "tpp:data/Animations.json:38"
+msgid "Bodyslam"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Flash",""],"parameters":null}
+# {"path":"data/Animations.json","row":"39","tags":null}
+#. Animations/40/name
+msgctxt "tpp:data/Animations.json:39"
+msgid "Flash"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heal One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"40","tags":null}
+#. Animations/41/name
+msgctxt "tpp:data/Animations.json:40"
+msgid "Heal One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heal One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"41","tags":null}
+#. Animations/42/name
+msgctxt "tpp:data/Animations.json:41"
+msgid "Heal One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heal All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"42","tags":null}
+#. Animations/43/name
+msgctxt "tpp:data/Animations.json:42"
+msgid "Heal All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heal All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"43","tags":null}
+#. Animations/44/name
+msgctxt "tpp:data/Animations.json:43"
+msgid "Heal All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cure One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"44","tags":null}
+#. Animations/45/name
+msgctxt "tpp:data/Animations.json:44"
+msgid "Cure One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cure One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"45","tags":null}
+#. Animations/46/name
+msgctxt "tpp:data/Animations.json:45"
+msgid "Cure One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cure All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"46","tags":null}
+#. Animations/47/name
+msgctxt "tpp:data/Animations.json:46"
+msgid "Cure All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cure All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"47","tags":null}
+#. Animations/48/name
+msgctxt "tpp:data/Animations.json:47"
+msgid "Cure All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Revive 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"48","tags":null}
+#. Animations/49/name
+msgctxt "tpp:data/Animations.json:48"
+msgid "Revive 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Revive 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"49","tags":null}
+#. Animations/50/name
+msgctxt "tpp:data/Animations.json:49"
+msgid "Revive 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power up 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"50","tags":null}
+#. Animations/51/name
+msgctxt "tpp:data/Animations.json:50"
+msgid "Power up 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power up 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"51","tags":null}
+#. Animations/52/name
+msgctxt "tpp:data/Animations.json:51"
+msgid "Power up 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power up 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"52","tags":null}
+#. Animations/53/name
+msgctxt "tpp:data/Animations.json:52"
+msgid "Power up 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power down 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"53","tags":null}
+#. Animations/54/name
+msgctxt "tpp:data/Animations.json:53"
+msgid "Power down 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power down 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"54","tags":null}
+#. Animations/55/name
+msgctxt "tpp:data/Animations.json:54"
+msgid "Power down 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power down 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"55","tags":null}
+#. Animations/56/name
+msgctxt "tpp:data/Animations.json:55"
+msgid "Power down 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bind",""],"parameters":null}
+# {"path":"data/Animations.json","row":"56","tags":null}
+#. Animations/57/name
+msgctxt "tpp:data/Animations.json:56"
+msgid "Bind"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Absorb",""],"parameters":null}
+# {"path":"data/Animations.json","row":"57","tags":null}
+#. Animations/58/name
+msgctxt "tpp:data/Animations.json:57"
+msgid "Absorb"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Poison",""],"parameters":null}
+# {"path":"data/Animations.json","row":"58","tags":null}
+#. Animations/59/name
+msgctxt "tpp:data/Animations.json:58"
+msgid "Poison"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blind",""],"parameters":null}
+# {"path":"data/Animations.json","row":"59","tags":null}
+#. Animations/60/name
+msgctxt "tpp:data/Animations.json:59"
+msgid "Blind"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Silence",""],"parameters":null}
+# {"path":"data/Animations.json","row":"60","tags":null}
+#. Animations/61/name
+msgctxt "tpp:data/Animations.json:60"
+msgid "Silence"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sleep",""],"parameters":null}
+# {"path":"data/Animations.json","row":"61","tags":null}
+#. Animations/62/name
+msgctxt "tpp:data/Animations.json:61"
+msgid "Sleep"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Confusion",""],"parameters":null}
+# {"path":"data/Animations.json","row":"62","tags":null}
+#. Animations/63/name
+msgctxt "tpp:data/Animations.json:62"
+msgid "Confusion"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Paralyze",""],"parameters":null}
+# {"path":"data/Animations.json","row":"63","tags":null}
+#. Animations/64/name
+msgctxt "tpp:data/Animations.json:63"
+msgid "Paralyze"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Death",""],"parameters":null}
+# {"path":"data/Animations.json","row":"64","tags":null}
+#. Animations/65/name
+msgctxt "tpp:data/Animations.json:64"
+msgid "Death"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"65","tags":null}
+#. Animations/66/name
+msgctxt "tpp:data/Animations.json:65"
+msgid "Fire One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"66","tags":null}
+#. Animations/67/name
+msgctxt "tpp:data/Animations.json:66"
+msgid "Fire One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"67","tags":null}
+#. Animations/68/name
+msgctxt "tpp:data/Animations.json:67"
+msgid "Fire All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"68","tags":null}
+#. Animations/69/name
+msgctxt "tpp:data/Animations.json:68"
+msgid "Fire All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"69","tags":null}
+#. Animations/70/name
+msgctxt "tpp:data/Animations.json:69"
+msgid "Fire All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"70","tags":null}
+#. Animations/71/name
+msgctxt "tpp:data/Animations.json:70"
+msgid "Ice One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"71","tags":null}
+#. Animations/72/name
+msgctxt "tpp:data/Animations.json:71"
+msgid "Ice One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"72","tags":null}
+#. Animations/73/name
+msgctxt "tpp:data/Animations.json:72"
+msgid "Ice All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"73","tags":null}
+#. Animations/74/name
+msgctxt "tpp:data/Animations.json:73"
+msgid "Ice All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"74","tags":null}
+#. Animations/75/name
+msgctxt "tpp:data/Animations.json:74"
+msgid "Ice All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"75","tags":null}
+#. Animations/76/name
+msgctxt "tpp:data/Animations.json:75"
+msgid "Thunder One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"76","tags":null}
+#. Animations/77/name
+msgctxt "tpp:data/Animations.json:76"
+msgid "Thunder One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"77","tags":null}
+#. Animations/78/name
+msgctxt "tpp:data/Animations.json:77"
+msgid "Thunder All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"78","tags":null}
+#. Animations/79/name
+msgctxt "tpp:data/Animations.json:78"
+msgid "Thunder All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"79","tags":null}
+#. Animations/80/name
+msgctxt "tpp:data/Animations.json:79"
+msgid "Thunder All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"80","tags":null}
+#. Animations/81/name
+msgctxt "tpp:data/Animations.json:80"
+msgid "Water One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"81","tags":null}
+#. Animations/82/name
+msgctxt "tpp:data/Animations.json:81"
+msgid "Water One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"82","tags":null}
+#. Animations/83/name
+msgctxt "tpp:data/Animations.json:82"
+msgid "Water All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"83","tags":null}
+#. Animations/84/name
+msgctxt "tpp:data/Animations.json:83"
+msgid "Water All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"84","tags":null}
+#. Animations/85/name
+msgctxt "tpp:data/Animations.json:84"
+msgid "Water All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Earth One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"85","tags":null}
+#. Animations/86/name
+msgctxt "tpp:data/Animations.json:85"
+msgid "Earth One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Earth One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"86","tags":null}
+#. Animations/87/name
+msgctxt "tpp:data/Animations.json:86"
+msgid "Earth One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Earth All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"87","tags":null}
+#. Animations/88/name
+msgctxt "tpp:data/Animations.json:87"
+msgid "Earth All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Earth All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"88","tags":null}
+#. Animations/89/name
+msgctxt "tpp:data/Animations.json:88"
+msgid "Earth All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Earth All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"89","tags":null}
+#. Animations/90/name
+msgctxt "tpp:data/Animations.json:89"
+msgid "Earth All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"90","tags":null}
+#. Animations/91/name
+msgctxt "tpp:data/Animations.json:90"
+msgid "Wind One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"91","tags":null}
+#. Animations/92/name
+msgctxt "tpp:data/Animations.json:91"
+msgid "Wind One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"92","tags":null}
+#. Animations/93/name
+msgctxt "tpp:data/Animations.json:92"
+msgid "Wind All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"93","tags":null}
+#. Animations/94/name
+msgctxt "tpp:data/Animations.json:93"
+msgid "Wind All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"94","tags":null}
+#. Animations/95/name
+msgctxt "tpp:data/Animations.json:94"
+msgid "Wind All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"95","tags":null}
+#. Animations/96/name
+msgctxt "tpp:data/Animations.json:95"
+msgid "Light One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"96","tags":null}
+#. Animations/97/name
+msgctxt "tpp:data/Animations.json:96"
+msgid "Light One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"97","tags":null}
+#. Animations/98/name
+msgctxt "tpp:data/Animations.json:97"
+msgid "Light All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"98","tags":null}
+#. Animations/99/name
+msgctxt "tpp:data/Animations.json:98"
+msgid "Light All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"99","tags":null}
+#. Animations/100/name
+msgctxt "tpp:data/Animations.json:99"
+msgid "Light All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"100","tags":null}
+#. Animations/101/name
+msgctxt "tpp:data/Animations.json:100"
+msgid "Darkness One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"101","tags":null}
+#. Animations/102/name
+msgctxt "tpp:data/Animations.json:101"
+msgid "Darkness One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"102","tags":null}
+#. Animations/103/name
+msgctxt "tpp:data/Animations.json:102"
+msgid "Darkness All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"103","tags":null}
+#. Animations/104/name
+msgctxt "tpp:data/Animations.json:103"
+msgid "Darkness All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"104","tags":null}
+#. Animations/105/name
+msgctxt "tpp:data/Animations.json:104"
+msgid "Darkness All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Neutral One 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"105","tags":null}
+#. Animations/106/name
+msgctxt "tpp:data/Animations.json:105"
+msgid "Neutral One 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Neutral One 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"106","tags":null}
+#. Animations/107/name
+msgctxt "tpp:data/Animations.json:106"
+msgid "Neutral One 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Neutral All 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"107","tags":null}
+#. Animations/108/name
+msgctxt "tpp:data/Animations.json:107"
+msgid "Neutral All 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Neutral All 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"108","tags":null}
+#. Animations/109/name
+msgctxt "tpp:data/Animations.json:108"
+msgid "Neutral All 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Neutral All 3",""],"parameters":null}
+# {"path":"data/Animations.json","row":"109","tags":null}
+#. Animations/110/name
+msgctxt "tpp:data/Animations.json:109"
+msgid "Neutral All 3"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shoot Normal",""],"parameters":null}
+# {"path":"data/Animations.json","row":"110","tags":null}
+#. Animations/111/name
+msgctxt "tpp:data/Animations.json:110"
+msgid "Shoot Normal"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shoot Barrage",""],"parameters":null}
+# {"path":"data/Animations.json","row":"111","tags":null}
+#. Animations/112/name
+msgctxt "tpp:data/Animations.json:111"
+msgid "Shoot Barrage"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shoot All",""],"parameters":null}
+# {"path":"data/Animations.json","row":"112","tags":null}
+#. Animations/113/name
+msgctxt "tpp:data/Animations.json:112"
+msgid "Shoot All"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shoot Special",""],"parameters":null}
+# {"path":"data/Animations.json","row":"113","tags":null}
+#. Animations/114/name
+msgctxt "tpp:data/Animations.json:113"
+msgid "Shoot Special"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Laser One",""],"parameters":null}
+# {"path":"data/Animations.json","row":"114","tags":null}
+#. Animations/115/name
+msgctxt "tpp:data/Animations.json:114"
+msgid "Laser One"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Laser All",""],"parameters":null}
+# {"path":"data/Animations.json","row":"115","tags":null}
+#. Animations/116/name
+msgctxt "tpp:data/Animations.json:115"
+msgid "Laser All"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light Pillar 1",""],"parameters":null}
+# {"path":"data/Animations.json","row":"116","tags":null}
+#. Animations/117/name
+msgctxt "tpp:data/Animations.json:116"
+msgid "Light Pillar 1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light Pillar 2",""],"parameters":null}
+# {"path":"data/Animations.json","row":"117","tags":null}
+#. Animations/118/name
+msgctxt "tpp:data/Animations.json:117"
+msgid "Light Pillar 2"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Balls of Light",""],"parameters":null}
+# {"path":"data/Animations.json","row":"118","tags":null}
+#. Animations/119/name
+msgctxt "tpp:data/Animations.json:118"
+msgid "Balls of Light"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Radiation",""],"parameters":null}
+# {"path":"data/Animations.json","row":"119","tags":null}
+#. Animations/120/name
+msgctxt "tpp:data/Animations.json:119"
+msgid "Radiation"
+msgstr ""

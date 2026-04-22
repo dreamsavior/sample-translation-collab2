@@ -1,0 +1,2066 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Skills.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["Attack",""],"parameters":null}
+# {"path":"data/Skills.json","row":"0","tags":null}
+#. Skills/1/name
+msgctxt "tpp:data/Skills.json:0"
+msgid "Attack"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 attacks!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"1","tags":null}
+#. Skills/1/message1
+#. Skills/12/message1
+#. Skills/13/message1
+#. Skills/14/message1
+#. Skills/41/message1
+msgctxt "tpp:data/Skills.json:1"
+msgid "%1 attacks!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Skill #1 corresponds to the Attack command.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"2","tags":null}
+#. Skills/1/note
+msgctxt "tpp:data/Skills.json:2"
+msgid "Skill #1 corresponds to the Attack command."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Guard",""],"parameters":null}
+# {"path":"data/Skills.json","row":"3","tags":null}
+#. Skills/2/name
+msgctxt "tpp:data/Skills.json:3"
+msgid "Guard"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 guards.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"4","tags":null}
+#. Skills/2/message1
+msgctxt "tpp:data/Skills.json:4"
+msgid "%1 guards."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Skill #2 corresponds to the Guard command.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"5","tags":null}
+#. Skills/2/note
+msgctxt "tpp:data/Skills.json:5"
+msgid "Skill #2 corresponds to the Guard command."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Reserved",""],"parameters":null}
+# {"path":"data/Skills.json","row":"6","tags":null}
+#. Skills/3/name
+msgctxt "tpp:data/Skills.json:6"
+msgid "-----Reserved"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Below are spaces for when you would like to display\nthings above skills when you open the menu.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"7","tags":null}
+#. Skills/3/description
+msgctxt "tpp:data/Skills.json:7"
+msgid ""
+"Below are spaces for when you would like to display\n"
+"things above skills when you open the menu."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Enemy",""],"parameters":null}
+# {"path":"data/Skills.json","row":"8","tags":null}
+#. Skills/11/name
+msgctxt "tpp:data/Skills.json:8"
+msgid "-----Enemy"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dual Attack",""],"parameters":null}
+# {"path":"data/Skills.json","row":"9","tags":null}
+#. Skills/12/name
+#. Skills/174/name
+msgctxt "tpp:data/Skills.json:9"
+msgid "Dual Attack"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs a series of attacks on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"10","tags":null}
+#. Skills/12/description
+msgctxt "tpp:data/Skills.json:10"
+msgid "Performs a series of attacks on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Double Attack",""],"parameters":null}
+# {"path":"data/Skills.json","row":"11","tags":null}
+#. Skills/13/name
+msgctxt "tpp:data/Skills.json:11"
+msgid "Double Attack"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs a double attack on a random enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"12","tags":null}
+#. Skills/13/description
+msgctxt "tpp:data/Skills.json:12"
+msgid "Performs a double attack on a random enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Triple Attack",""],"parameters":null}
+# {"path":"data/Skills.json","row":"13","tags":null}
+#. Skills/14/name
+msgctxt "tpp:data/Skills.json:13"
+msgid "Triple Attack"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs a triple attack on a random enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"14","tags":null}
+#. Skills/14/description
+msgctxt "tpp:data/Skills.json:14"
+msgid "Performs a triple attack on a random enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Escape",""],"parameters":null}
+# {"path":"data/Skills.json","row":"15","tags":null}
+#. Skills/15/name
+msgctxt "tpp:data/Skills.json:15"
+msgid "Escape"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["The user flees from battle.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"16","tags":null}
+#. Skills/15/description
+msgctxt "tpp:data/Skills.json:16"
+msgid "The user flees from battle."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 flees.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"17","tags":null}
+#. Skills/15/message1
+msgctxt "tpp:data/Skills.json:17"
+msgid "%1 flees."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wait and See",""],"parameters":null}
+# {"path":"data/Skills.json","row":"18","tags":null}
+#. Skills/16/name
+msgctxt "tpp:data/Skills.json:18"
+msgid "Wait and See"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Waits to see what happens.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"19","tags":null}
+#. Skills/16/description
+msgctxt "tpp:data/Skills.json:19"
+msgid "Waits to see what happens."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 is waiting to see what happens.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"20","tags":null}
+#. Skills/16/message1
+msgctxt "tpp:data/Skills.json:20"
+msgid "%1 is waiting to see what happens."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blood Suck",""],"parameters":null}
+# {"path":"data/Skills.json","row":"21","tags":null}
+#. Skills/17/name
+msgctxt "tpp:data/Skills.json:21"
+msgid "Blood Suck"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Absorbs HP from an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"22","tags":null}
+#. Skills/17/description
+#. Skills/91/description
+msgctxt "tpp:data/Skills.json:22"
+msgid "Absorbs HP from an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 sucks blood!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"23","tags":null}
+#. Skills/17/message1
+msgctxt "tpp:data/Skills.json:23"
+msgid "%1 sucks blood!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Meditate",""],"parameters":null}
+# {"path":"data/Skills.json","row":"24","tags":null}
+#. Skills/18/name
+msgctxt "tpp:data/Skills.json:24"
+msgid "Meditate"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Restores the user’s HP.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"25","tags":null}
+#. Skills/18/description
+msgctxt "tpp:data/Skills.json:25"
+msgid "Restores the user’s HP."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 meditates!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"26","tags":null}
+#. Skills/18/message1
+msgctxt "tpp:data/Skills.json:26"
+msgid "%1 meditates!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Tranquilizer",""],"parameters":null}
+# {"path":"data/Skills.json","row":"27","tags":null}
+#. Skills/19/name
+msgctxt "tpp:data/Skills.json:27"
+msgid "Tranquilizer"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stabs an enemy with paralyzing needles.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"28","tags":null}
+#. Skills/19/description
+msgctxt "tpp:data/Skills.json:28"
+msgid "Stabs an enemy with paralyzing needles."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 does %2!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"29","tags":null}
+#. Skills/19/message1
+#. Skills/21/message1
+#. Skills/26/message1
+#. Skills/27/message1
+#. Skills/28/message1
+#. Skills/29/message1
+#. Skills/30/message1
+#. Skills/34/message1
+#. Skills/35/message1
+#. Skills/36/message1
+#. Skills/37/message1
+#. Skills/38/message1
+#. Skills/172/message1
+#. Skills/177/message1
+#. Skills/197/message1
+#. Skills/198/message1
+#. Skills/199/message1
+#. Skills/201/message1
+#. Skills/203/message1
+#. Skills/206/message1
+#. Skills/208/message1
+#. Skills/210/message1
+#. Skills/216/message1
+#. Skills/218/message1
+#. Skills/219/message1
+#. Skills/226/message1
+#. Skills/227/message1
+#. Skills/228/message1
+#. Skills/229/message1
+msgctxt "tpp:data/Skills.json:29"
+msgid "%1 does %2!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bodyslam",""],"parameters":null}
+# {"path":"data/Skills.json","row":"30","tags":null}
+#. Skills/20/name
+msgctxt "tpp:data/Skills.json:30"
+msgid "Bodyslam"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts damage and causes an enemy to lose balance.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"31","tags":null}
+#. Skills/20/description
+msgctxt "tpp:data/Skills.json:31"
+msgid "Inflicts damage and causes an enemy to lose balance."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 does bodyslam!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"32","tags":null}
+#. Skills/20/message1
+msgctxt "tpp:data/Skills.json:32"
+msgid "%1 does bodyslam!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shock",""],"parameters":null}
+# {"path":"data/Skills.json","row":"33","tags":null}
+#. Skills/21/name
+msgctxt "tpp:data/Skills.json:33"
+msgid "Shock"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Thunder-type damage and Paralysis state.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"34","tags":null}
+#. Skills/21/description
+msgctxt "tpp:data/Skills.json:34"
+msgid "Inflicts Thunder-type damage and Paralysis state."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slime",""],"parameters":null}
+# {"path":"data/Skills.json","row":"35","tags":null}
+#. Skills/22/name
+msgctxt "tpp:data/Skills.json:35"
+msgid "Slime"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Covers an enemy in slime and lowers their Agility.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"36","tags":null}
+#. Skills/22/description
+msgctxt "tpp:data/Skills.json:36"
+msgid "Covers an enemy in slime and lowers their Agility."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 shoots out slime!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"37","tags":null}
+#. Skills/22/message1
+msgctxt "tpp:data/Skills.json:37"
+msgid "%1 shoots out slime!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Venom",""],"parameters":null}
+# {"path":"data/Skills.json","row":"38","tags":null}
+#. Skills/23/name
+msgctxt "tpp:data/Skills.json:38"
+msgid "Venom"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sprays an enemy with venom and inflicts Poison state.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"39","tags":null}
+#. Skills/23/description
+msgctxt "tpp:data/Skills.json:39"
+msgid "Sprays an enemy with venom and inflicts Poison state."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 uses %2!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"40","tags":null}
+#. Skills/23/message1
+#. Skills/175/message1
+#. Skills/217/message1
+msgctxt "tpp:data/Skills.json:40"
+msgid "%1 uses %2!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shout",""],"parameters":null}
+# {"path":"data/Skills.json","row":"41","tags":null}
+#. Skills/24/name
+msgctxt "tpp:data/Skills.json:41"
+msgid "Shout"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Rouses the user’s fighting spirit and fortifies\ntheir abilities.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"42","tags":null}
+#. Skills/24/description
+msgctxt "tpp:data/Skills.json:42"
+msgid ""
+"Rouses the user’s fighting spirit and fortifies\n"
+"their abilities."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 rouses their fighting spirit!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"43","tags":null}
+#. Skills/24/message1
+msgctxt "tpp:data/Skills.json:43"
+msgid "%1 rouses their fighting spirit!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bizarre Dance",""],"parameters":null}
+# {"path":"data/Skills.json","row":"44","tags":null}
+#. Skills/25/name
+msgctxt "tpp:data/Skills.json:44"
+msgid "Bizarre Dance"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Absorbs MP from an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"45","tags":null}
+#. Skills/25/description
+#. Skills/92/description
+msgctxt "tpp:data/Skills.json:45"
+msgid "Absorbs MP from an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 dances bizarrely!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"46","tags":null}
+#. Skills/25/message1
+msgctxt "tpp:data/Skills.json:46"
+msgid "%1 dances bizarrely!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Petrify",""],"parameters":null}
+# {"path":"data/Skills.json","row":"47","tags":null}
+#. Skills/26/name
+msgctxt "tpp:data/Skills.json:47"
+msgid "Petrify"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Glares at an enemy and paralyzes them.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"48","tags":null}
+#. Skills/26/description
+msgctxt "tpp:data/Skills.json:48"
+msgid "Glares at an enemy and paralyzes them."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Eye Poke",""],"parameters":null}
+# {"path":"data/Skills.json","row":"49","tags":null}
+#. Skills/27/name
+#. Skills/206/name
+msgctxt "tpp:data/Skills.json:49"
+msgid "Eye Poke"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blinds an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"50","tags":null}
+#. Skills/27/description
+#. Skills/206/description
+msgctxt "tpp:data/Skills.json:50"
+msgid "Blinds an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sandstorm",""],"parameters":null}
+# {"path":"data/Skills.json","row":"51","tags":null}
+#. Skills/28/name
+msgctxt "tpp:data/Skills.json:51"
+msgid "Sandstorm"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blinds all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"52","tags":null}
+#. Skills/28/description
+#. Skills/29/description
+#. Skills/72/description
+#. Skills/208/description
+msgctxt "tpp:data/Skills.json:52"
+msgid "Blinds all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Flash",""],"parameters":null}
+# {"path":"data/Skills.json","row":"53","tags":null}
+#. Skills/29/name
+msgctxt "tpp:data/Skills.json:53"
+msgid "Flash"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Toxic Fog",""],"parameters":null}
+# {"path":"data/Skills.json","row":"54","tags":null}
+#. Skills/30/name
+msgctxt "tpp:data/Skills.json:54"
+msgid "Toxic Fog"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Poisons all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"55","tags":null}
+#. Skills/30/description
+#. Skills/71/description
+msgctxt "tpp:data/Skills.json:55"
+msgid "Poisons all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Lullaby",""],"parameters":null}
+# {"path":"data/Skills.json","row":"56","tags":null}
+#. Skills/31/name
+msgctxt "tpp:data/Skills.json:56"
+msgid "Lullaby"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Puts all enemies to sleep.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"57","tags":null}
+#. Skills/31/description
+#. Skills/75/description
+msgctxt "tpp:data/Skills.json:57"
+msgid "Puts all enemies to sleep."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 sings a Lullaby!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"58","tags":null}
+#. Skills/31/message1
+msgctxt "tpp:data/Skills.json:58"
+msgid "%1 sings a Lullaby!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Alluring Melody",""],"parameters":null}
+# {"path":"data/Skills.json","row":"59","tags":null}
+#. Skills/32/name
+msgctxt "tpp:data/Skills.json:59"
+msgid "Alluring Melody"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Charms all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"60","tags":null}
+#. Skills/32/description
+msgctxt "tpp:data/Skills.json:60"
+msgid "Charms all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 sings an Alluring Melody!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"61","tags":null}
+#. Skills/32/message1
+msgctxt "tpp:data/Skills.json:61"
+msgid "%1 sings an Alluring Melody!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Song of Silence",""],"parameters":null}
+# {"path":"data/Skills.json","row":"62","tags":null}
+#. Skills/33/name
+msgctxt "tpp:data/Skills.json:62"
+msgid "Song of Silence"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Seals all enemies’ magic.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"63","tags":null}
+#. Skills/33/description
+#. Skills/74/description
+msgctxt "tpp:data/Skills.json:63"
+msgid "Seals all enemies’ magic."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 sings a Song of Silence!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"64","tags":null}
+#. Skills/33/message1
+msgctxt "tpp:data/Skills.json:64"
+msgid "%1 sings a Song of Silence!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sonic Wave",""],"parameters":null}
+# {"path":"data/Skills.json","row":"65","tags":null}
+#. Skills/34/name
+msgctxt "tpp:data/Skills.json:65"
+msgid "Sonic Wave"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Confuses all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"66","tags":null}
+#. Skills/34/description
+#. Skills/73/description
+msgctxt "tpp:data/Skills.json:66"
+msgid "Confuses all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stone Throw",""],"parameters":null}
+# {"path":"data/Skills.json","row":"67","tags":null}
+#. Skills/35/name
+msgctxt "tpp:data/Skills.json:67"
+msgid "Stone Throw"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Earth-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"68","tags":null}
+#. Skills/35/description
+#. Skills/39/description
+#. Skills/132/description
+#. Skills/133/description
+msgctxt "tpp:data/Skills.json:68"
+msgid "Inflicts Earth-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dust Devil",""],"parameters":null}
+# {"path":"data/Skills.json","row":"69","tags":null}
+#. Skills/36/name
+msgctxt "tpp:data/Skills.json:69"
+msgid "Dust Devil"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Wind-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"70","tags":null}
+#. Skills/36/description
+#. Skills/138/description
+#. Skills/139/description
+#. Skills/210/description
+msgctxt "tpp:data/Skills.json:70"
+msgid "Inflicts Wind-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire Breath",""],"parameters":null}
+# {"path":"data/Skills.json","row":"71","tags":null}
+#. Skills/37/name
+msgctxt "tpp:data/Skills.json:71"
+msgid "Fire Breath"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Fire-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"72","tags":null}
+#. Skills/37/description
+#. Skills/103/description
+#. Skills/104/description
+#. Skills/105/description
+msgctxt "tpp:data/Skills.json:72"
+msgid "Inflicts Fire-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice Breath",""],"parameters":null}
+# {"path":"data/Skills.json","row":"73","tags":null}
+#. Skills/38/name
+msgctxt "tpp:data/Skills.json:73"
+msgid "Ice Breath"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Ice-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"74","tags":null}
+#. Skills/38/description
+#. Skills/111/description
+#. Skills/112/description
+#. Skills/113/description
+msgctxt "tpp:data/Skills.json:74"
+msgid "Inflicts Ice-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Earthquake",""],"parameters":null}
+# {"path":"data/Skills.json","row":"75","tags":null}
+#. Skills/39/name
+msgctxt "tpp:data/Skills.json:75"
+msgid "Earthquake"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 causes an Earthquake!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"76","tags":null}
+#. Skills/39/message1
+msgctxt "tpp:data/Skills.json:76"
+msgid "%1 causes an Earthquake!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Tsunami",""],"parameters":null}
+# {"path":"data/Skills.json","row":"77","tags":null}
+#. Skills/40/name
+msgctxt "tpp:data/Skills.json:77"
+msgid "Tsunami"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Water-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"78","tags":null}
+#. Skills/40/description
+#. Skills/126/description
+#. Skills/127/description
+msgctxt "tpp:data/Skills.json:78"
+msgid "Inflicts Water-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 causes a Tsunami!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"79","tags":null}
+#. Skills/40/message1
+msgctxt "tpp:data/Skills.json:79"
+msgid "%1 causes a Tsunami!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Scratch",""],"parameters":null}
+# {"path":"data/Skills.json","row":"80","tags":null}
+#. Skills/41/name
+msgctxt "tpp:data/Skills.json:80"
+msgid "Scratch"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"81","tags":null}
+#. Skills/41/description
+msgctxt "tpp:data/Skills.json:81"
+msgid "Inflicts damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Basic Magic",""],"parameters":null}
+# {"path":"data/Skills.json","row":"82","tags":null}
+#. Skills/51/name
+msgctxt "tpp:data/Skills.json:82"
+msgid "-----Basic Magic"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heal I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"83","tags":null}
+#. Skills/52/name
+msgctxt "tpp:data/Skills.json:83"
+msgid "Heal I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Restores an ally’s HP.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"84","tags":null}
+#. Skills/52/description
+#. Skills/53/description
+#. Skills/54/description
+#. Skills/176/description
+msgctxt "tpp:data/Skills.json:84"
+msgid "Restores an ally’s HP."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 casts %2!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"85","tags":null}
+#. Skills/52/message1
+#. Skills/53/message1
+#. Skills/54/message1
+#. Skills/56/message1
+#. Skills/57/message1
+#. Skills/58/message1
+#. Skills/60/message1
+#. Skills/61/message1
+#. Skills/62/message1
+#. Skills/64/message1
+#. Skills/65/message1
+#. Skills/71/message1
+#. Skills/72/message1
+#. Skills/73/message1
+#. Skills/74/message1
+#. Skills/75/message1
+#. Skills/76/message1
+#. Skills/81/message1
+#. Skills/82/message1
+#. Skills/83/message1
+#. Skills/84/message1
+#. Skills/85/message1
+#. Skills/86/message1
+#. Skills/87/message1
+#. Skills/88/message1
+#. Skills/89/message1
+#. Skills/90/message1
+#. Skills/91/message1
+#. Skills/92/message1
+#. Skills/99/message1
+#. Skills/100/message1
+#. Skills/101/message1
+#. Skills/103/message1
+#. Skills/104/message1
+#. Skills/105/message1
+#. Skills/107/message1
+#. Skills/108/message1
+#. Skills/109/message1
+#. Skills/111/message1
+#. Skills/112/message1
+#. Skills/113/message1
+#. Skills/115/message1
+#. Skills/116/message1
+#. Skills/117/message1
+#. Skills/119/message1
+#. Skills/120/message1
+#. Skills/121/message1
+#. Skills/123/message1
+#. Skills/124/message1
+#. Skills/126/message1
+#. Skills/127/message1
+#. Skills/129/message1
+#. Skills/130/message1
+#. Skills/132/message1
+#. Skills/133/message1
+#. Skills/135/message1
+#. Skills/136/message1
+#. Skills/138/message1
+#. Skills/139/message1
+#. Skills/141/message1
+#. Skills/142/message1
+#. Skills/144/message1
+#. Skills/145/message1
+#. Skills/147/message1
+#. Skills/148/message1
+#. Skills/150/message1
+#. Skills/151/message1
+#. Skills/153/message1
+#. Skills/154/message1
+#. Skills/156/message1
+#. Skills/157/message1
+#. Skills/187/message1
+#. Skills/189/message1
+#. Skills/190/message1
+#. Skills/191/message1
+#. Skills/192/message1
+#. Skills/193/message1
+msgctxt "tpp:data/Skills.json:85"
+msgid "%1 casts %2!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heal II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"86","tags":null}
+#. Skills/53/name
+msgctxt "tpp:data/Skills.json:86"
+msgid "Heal II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heal III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"87","tags":null}
+#. Skills/54/name
+msgctxt "tpp:data/Skills.json:87"
+msgid "Heal III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Recover I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"88","tags":null}
+#. Skills/56/name
+msgctxt "tpp:data/Skills.json:88"
+msgid "Recover I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Restores all allies’ HP.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"89","tags":null}
+#. Skills/56/description
+#. Skills/57/description
+#. Skills/58/description
+msgctxt "tpp:data/Skills.json:89"
+msgid "Restores all allies’ HP."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Recover II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"90","tags":null}
+#. Skills/57/name
+msgctxt "tpp:data/Skills.json:90"
+msgid "Recover II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Recover III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"91","tags":null}
+#. Skills/58/name
+msgctxt "tpp:data/Skills.json:91"
+msgid "Recover III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cure I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"92","tags":null}
+#. Skills/60/name
+msgctxt "tpp:data/Skills.json:92"
+msgid "Cure I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cures an ally’s Poison, Paralysis, or Sleep state.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"93","tags":null}
+#. Skills/60/description
+msgctxt "tpp:data/Skills.json:93"
+msgid "Cures an ally’s Poison, Paralysis, or Sleep state."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cure II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"94","tags":null}
+#. Skills/61/name
+msgctxt "tpp:data/Skills.json:94"
+msgid "Cure II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cures an ally’s status ailments other than Dead.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"95","tags":null}
+#. Skills/61/description
+msgctxt "tpp:data/Skills.json:95"
+msgid "Cures an ally’s status ailments other than Dead."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cure III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"96","tags":null}
+#. Skills/62/name
+msgctxt "tpp:data/Skills.json:96"
+msgid "Cure III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cures all allies’ status ailments other than Dead.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"97","tags":null}
+#. Skills/62/description
+msgctxt "tpp:data/Skills.json:97"
+msgid "Cures all allies’ status ailments other than Dead."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Raise I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"98","tags":null}
+#. Skills/64/name
+msgctxt "tpp:data/Skills.json:98"
+msgid "Raise I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Raises an ally from the dead.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"99","tags":null}
+#. Skills/64/description
+msgctxt "tpp:data/Skills.json:99"
+msgid "Raises an ally from the dead."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Raise II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"100","tags":null}
+#. Skills/65/name
+msgctxt "tpp:data/Skills.json:100"
+msgid "Raise II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Raises an ally from the dead and greatly restores\ntheir HP.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"101","tags":null}
+#. Skills/65/description
+msgctxt "tpp:data/Skills.json:101"
+msgid ""
+"Raises an ally from the dead and greatly restores\n"
+"their HP."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Poison",""],"parameters":null}
+# {"path":"data/Skills.json","row":"102","tags":null}
+#. Skills/71/name
+msgctxt "tpp:data/Skills.json:102"
+msgid "Poison"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blind",""],"parameters":null}
+# {"path":"data/Skills.json","row":"103","tags":null}
+#. Skills/72/name
+msgctxt "tpp:data/Skills.json:103"
+msgid "Blind"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Confuse",""],"parameters":null}
+# {"path":"data/Skills.json","row":"104","tags":null}
+#. Skills/73/name
+msgctxt "tpp:data/Skills.json:104"
+msgid "Confuse"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Silence",""],"parameters":null}
+# {"path":"data/Skills.json","row":"105","tags":null}
+#. Skills/74/name
+msgctxt "tpp:data/Skills.json:105"
+msgid "Silence"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sleep",""],"parameters":null}
+# {"path":"data/Skills.json","row":"106","tags":null}
+#. Skills/75/name
+msgctxt "tpp:data/Skills.json:106"
+msgid "Sleep"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Paralyze",""],"parameters":null}
+# {"path":"data/Skills.json","row":"107","tags":null}
+#. Skills/76/name
+msgctxt "tpp:data/Skills.json:107"
+msgid "Paralyze"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Paralyzes all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"108","tags":null}
+#. Skills/76/description
+msgctxt "tpp:data/Skills.json:108"
+msgid "Paralyzes all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Weapon Bless",""],"parameters":null}
+# {"path":"data/Skills.json","row":"109","tags":null}
+#. Skills/81/name
+msgctxt "tpp:data/Skills.json:109"
+msgid "Weapon Bless"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases an ally’s Attack.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"110","tags":null}
+#. Skills/81/description
+msgctxt "tpp:data/Skills.json:110"
+msgid ""
+"Increases an ally’s Attack.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Weapon Curse",""],"parameters":null}
+# {"path":"data/Skills.json","row":"111","tags":null}
+#. Skills/82/name
+msgctxt "tpp:data/Skills.json:111"
+msgid "Weapon Curse"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Decreases all enemies’ Attack.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"112","tags":null}
+#. Skills/82/description
+msgctxt "tpp:data/Skills.json:112"
+msgid ""
+"Decreases all enemies’ Attack.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Armor Bless",""],"parameters":null}
+# {"path":"data/Skills.json","row":"113","tags":null}
+#. Skills/83/name
+msgctxt "tpp:data/Skills.json:113"
+msgid "Armor Bless"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases an ally’s Defense.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"114","tags":null}
+#. Skills/83/description
+msgctxt "tpp:data/Skills.json:114"
+msgid ""
+"Increases an ally’s Defense.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Armor Curse",""],"parameters":null}
+# {"path":"data/Skills.json","row":"115","tags":null}
+#. Skills/84/name
+msgctxt "tpp:data/Skills.json:115"
+msgid "Armor Curse"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Decreases all enemies’ Defense.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"116","tags":null}
+#. Skills/84/description
+msgctxt "tpp:data/Skills.json:116"
+msgid ""
+"Decreases all enemies’ Defense.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spirit Bless",""],"parameters":null}
+# {"path":"data/Skills.json","row":"117","tags":null}
+#. Skills/85/name
+msgctxt "tpp:data/Skills.json:117"
+msgid "Spirit Bless"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases an ally’s M.Attack.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"118","tags":null}
+#. Skills/85/description
+msgctxt "tpp:data/Skills.json:118"
+msgid ""
+"Increases an ally’s M.Attack.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spirit Curse",""],"parameters":null}
+# {"path":"data/Skills.json","row":"119","tags":null}
+#. Skills/86/name
+msgctxt "tpp:data/Skills.json:119"
+msgid "Spirit Curse"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Decreases all enemies’ M.Attack.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"120","tags":null}
+#. Skills/86/description
+msgctxt "tpp:data/Skills.json:120"
+msgid ""
+"Decreases all enemies’ M.Attack.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Divine Bless",""],"parameters":null}
+# {"path":"data/Skills.json","row":"121","tags":null}
+#. Skills/87/name
+msgctxt "tpp:data/Skills.json:121"
+msgid "Divine Bless"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases an ally’s M.Defense.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"122","tags":null}
+#. Skills/87/description
+msgctxt "tpp:data/Skills.json:122"
+msgid ""
+"Increases an ally’s M.Defense.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Divine Curse",""],"parameters":null}
+# {"path":"data/Skills.json","row":"123","tags":null}
+#. Skills/88/name
+msgctxt "tpp:data/Skills.json:123"
+msgid "Divine Curse"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Decreases all enemies’ M.Defense.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"124","tags":null}
+#. Skills/88/description
+msgctxt "tpp:data/Skills.json:124"
+msgid ""
+"Decreases all enemies’ M.Defense.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Quicken Movement",""],"parameters":null}
+# {"path":"data/Skills.json","row":"125","tags":null}
+#. Skills/89/name
+msgctxt "tpp:data/Skills.json:125"
+msgid "Quicken Movement"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases an ally’s Agility.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"126","tags":null}
+#. Skills/89/description
+msgctxt "tpp:data/Skills.json:126"
+msgid ""
+"Increases an ally’s Agility.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slow Movement",""],"parameters":null}
+# {"path":"data/Skills.json","row":"127","tags":null}
+#. Skills/90/name
+msgctxt "tpp:data/Skills.json:127"
+msgid "Slow Movement"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Decreases all enemies’ Agility.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"128","tags":null}
+#. Skills/90/description
+msgctxt "tpp:data/Skills.json:128"
+msgid ""
+"Decreases all enemies’ Agility.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Life Drain",""],"parameters":null}
+# {"path":"data/Skills.json","row":"129","tags":null}
+#. Skills/91/name
+msgctxt "tpp:data/Skills.json:129"
+msgid "Life Drain"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mana Drain",""],"parameters":null}
+# {"path":"data/Skills.json","row":"130","tags":null}
+#. Skills/92/name
+msgctxt "tpp:data/Skills.json:130"
+msgid "Mana Drain"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"131","tags":null}
+#. Skills/99/name
+msgctxt "tpp:data/Skills.json:131"
+msgid "Fire I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Fire-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"132","tags":null}
+#. Skills/99/description
+#. Skills/100/description
+#. Skills/101/description
+msgctxt "tpp:data/Skills.json:132"
+msgid "Inflicts Fire-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"133","tags":null}
+#. Skills/100/name
+msgctxt "tpp:data/Skills.json:133"
+msgid "Fire II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"134","tags":null}
+#. Skills/101/name
+msgctxt "tpp:data/Skills.json:134"
+msgid "Fire III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Flame I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"135","tags":null}
+#. Skills/103/name
+msgctxt "tpp:data/Skills.json:135"
+msgid "Flame I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Flame II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"136","tags":null}
+#. Skills/104/name
+msgctxt "tpp:data/Skills.json:136"
+msgid "Flame II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Flame III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"137","tags":null}
+#. Skills/105/name
+msgctxt "tpp:data/Skills.json:137"
+msgid "Flame III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"138","tags":null}
+#. Skills/107/name
+msgctxt "tpp:data/Skills.json:138"
+msgid "Ice I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Ice-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"139","tags":null}
+#. Skills/107/description
+#. Skills/108/description
+#. Skills/109/description
+msgctxt "tpp:data/Skills.json:139"
+msgid "Inflicts Ice-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"140","tags":null}
+#. Skills/108/name
+msgctxt "tpp:data/Skills.json:140"
+msgid "Ice II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"141","tags":null}
+#. Skills/109/name
+msgctxt "tpp:data/Skills.json:141"
+msgid "Ice III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blizzard I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"142","tags":null}
+#. Skills/111/name
+msgctxt "tpp:data/Skills.json:142"
+msgid "Blizzard I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blizzard II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"143","tags":null}
+#. Skills/112/name
+msgctxt "tpp:data/Skills.json:143"
+msgid "Blizzard II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Blizzard III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"144","tags":null}
+#. Skills/113/name
+msgctxt "tpp:data/Skills.json:144"
+msgid "Blizzard III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"145","tags":null}
+#. Skills/115/name
+msgctxt "tpp:data/Skills.json:145"
+msgid "Thunder I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Thunder-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"146","tags":null}
+#. Skills/115/description
+#. Skills/116/description
+#. Skills/117/description
+msgctxt "tpp:data/Skills.json:146"
+msgid "Inflicts Thunder-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"147","tags":null}
+#. Skills/116/name
+msgctxt "tpp:data/Skills.json:147"
+msgid "Thunder II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"148","tags":null}
+#. Skills/117/name
+msgctxt "tpp:data/Skills.json:148"
+msgid "Thunder III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spark I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"149","tags":null}
+#. Skills/119/name
+msgctxt "tpp:data/Skills.json:149"
+msgid "Spark I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Thunder-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"150","tags":null}
+#. Skills/119/description
+#. Skills/120/description
+#. Skills/121/description
+msgctxt "tpp:data/Skills.json:150"
+msgid "Inflicts Thunder-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spark II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"151","tags":null}
+#. Skills/120/name
+msgctxt "tpp:data/Skills.json:151"
+msgid "Spark II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spark III",""],"parameters":null}
+# {"path":"data/Skills.json","row":"152","tags":null}
+#. Skills/121/name
+msgctxt "tpp:data/Skills.json:152"
+msgid "Spark III"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"153","tags":null}
+#. Skills/123/name
+msgctxt "tpp:data/Skills.json:153"
+msgid "Water I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Water-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"154","tags":null}
+#. Skills/123/description
+#. Skills/124/description
+msgctxt "tpp:data/Skills.json:154"
+msgid "Inflicts Water-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"155","tags":null}
+#. Skills/124/name
+msgctxt "tpp:data/Skills.json:155"
+msgid "Water II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wave I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"156","tags":null}
+#. Skills/126/name
+msgctxt "tpp:data/Skills.json:156"
+msgid "Wave I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wave II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"157","tags":null}
+#. Skills/127/name
+msgctxt "tpp:data/Skills.json:157"
+msgid "Wave II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stone I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"158","tags":null}
+#. Skills/129/name
+msgctxt "tpp:data/Skills.json:158"
+msgid "Stone I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Earth-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"159","tags":null}
+#. Skills/129/description
+#. Skills/130/description
+msgctxt "tpp:data/Skills.json:159"
+msgid "Inflicts Earth-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stone II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"160","tags":null}
+#. Skills/130/name
+msgctxt "tpp:data/Skills.json:160"
+msgid "Stone II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Quake I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"161","tags":null}
+#. Skills/132/name
+msgctxt "tpp:data/Skills.json:161"
+msgid "Quake I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Quake II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"162","tags":null}
+#. Skills/133/name
+msgctxt "tpp:data/Skills.json:162"
+msgid "Quake II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"163","tags":null}
+#. Skills/135/name
+msgctxt "tpp:data/Skills.json:163"
+msgid "Wind I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Wind-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"164","tags":null}
+#. Skills/135/description
+#. Skills/136/description
+msgctxt "tpp:data/Skills.json:164"
+msgid "Inflicts Wind-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"165","tags":null}
+#. Skills/136/name
+msgctxt "tpp:data/Skills.json:165"
+msgid "Wind II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Tornado I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"166","tags":null}
+#. Skills/138/name
+msgctxt "tpp:data/Skills.json:166"
+msgid "Tornado I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Tornado II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"167","tags":null}
+#. Skills/139/name
+msgctxt "tpp:data/Skills.json:167"
+msgid "Tornado II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Saint I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"168","tags":null}
+#. Skills/141/name
+msgctxt "tpp:data/Skills.json:168"
+msgid "Saint I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Light-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"169","tags":null}
+#. Skills/141/description
+#. Skills/142/description
+msgctxt "tpp:data/Skills.json:169"
+msgid "Inflicts Light-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Saint II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"170","tags":null}
+#. Skills/142/name
+msgctxt "tpp:data/Skills.json:170"
+msgid "Saint II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Starlight I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"171","tags":null}
+#. Skills/144/name
+msgctxt "tpp:data/Skills.json:171"
+msgid "Starlight I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Light-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"172","tags":null}
+#. Skills/144/description
+#. Skills/145/description
+msgctxt "tpp:data/Skills.json:172"
+msgid "Inflicts Light-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Starlight II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"173","tags":null}
+#. Skills/145/name
+msgctxt "tpp:data/Skills.json:173"
+msgid "Starlight II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shade I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"174","tags":null}
+#. Skills/147/name
+msgctxt "tpp:data/Skills.json:174"
+msgid "Shade I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Darkness-type damage on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"175","tags":null}
+#. Skills/147/description
+#. Skills/148/description
+msgctxt "tpp:data/Skills.json:175"
+msgid "Inflicts Darkness-type damage on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shade II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"176","tags":null}
+#. Skills/148/name
+msgctxt "tpp:data/Skills.json:176"
+msgid "Shade II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"177","tags":null}
+#. Skills/150/name
+msgctxt "tpp:data/Skills.json:177"
+msgid "Darkness I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts Darkness-type damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"178","tags":null}
+#. Skills/150/description
+#. Skills/151/description
+msgctxt "tpp:data/Skills.json:178"
+msgid "Inflicts Darkness-type damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"179","tags":null}
+#. Skills/151/name
+msgctxt "tpp:data/Skills.json:179"
+msgid "Darkness II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Burst I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"180","tags":null}
+#. Skills/153/name
+msgctxt "tpp:data/Skills.json:180"
+msgid "Burst I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts damage on an enemy regardless of Defense.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"181","tags":null}
+#. Skills/153/description
+#. Skills/154/description
+#. Skills/219/description
+msgctxt "tpp:data/Skills.json:181"
+msgid "Inflicts damage on an enemy regardless of Defense."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Burst II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"182","tags":null}
+#. Skills/154/name
+msgctxt "tpp:data/Skills.json:182"
+msgid "Burst II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Nuke I",""],"parameters":null}
+# {"path":"data/Skills.json","row":"183","tags":null}
+#. Skills/156/name
+msgctxt "tpp:data/Skills.json:183"
+msgid "Nuke I"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts damage on all enemies regardless of Defense.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"184","tags":null}
+#. Skills/156/description
+#. Skills/157/description
+#. Skills/189/description
+#. Skills/199/description
+msgctxt "tpp:data/Skills.json:184"
+msgid "Inflicts damage on all enemies regardless of Defense."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Nuke II",""],"parameters":null}
+# {"path":"data/Skills.json","row":"185","tags":null}
+#. Skills/157/name
+msgctxt "tpp:data/Skills.json:185"
+msgid "Nuke II"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Swordsman Skills",""],"parameters":null}
+# {"path":"data/Skills.json","row":"186","tags":null}
+#. Skills/171/name
+msgctxt "tpp:data/Skills.json:186"
+msgid "-----Swordsman Skills"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Strong Attack",""],"parameters":null}
+# {"path":"data/Skills.json","row":"187","tags":null}
+#. Skills/172/name
+msgctxt "tpp:data/Skills.json:187"
+msgid "Strong Attack"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs a powerful attack on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"188","tags":null}
+#. Skills/172/description
+msgctxt "tpp:data/Skills.json:188"
+msgid "Performs a powerful attack on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slash",""],"parameters":null}
+# {"path":"data/Skills.json","row":"189","tags":null}
+#. Skills/173/name
+msgctxt "tpp:data/Skills.json:189"
+msgid "Slash"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Attacks all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"190","tags":null}
+#. Skills/173/description
+#. Skills/201/description
+msgctxt "tpp:data/Skills.json:190"
+msgid "Attacks all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 mows down the enemy!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"191","tags":null}
+#. Skills/173/message1
+#. Skills/178/message1
+msgctxt "tpp:data/Skills.json:191"
+msgid "%1 mows down the enemy!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs an attack on an enemy twice.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"192","tags":null}
+#. Skills/174/description
+#. Skills/198/description
+msgctxt "tpp:data/Skills.json:192"
+msgid "Performs an attack on an enemy twice."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 dual attacks!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"193","tags":null}
+#. Skills/174/message1
+msgctxt "tpp:data/Skills.json:193"
+msgid "%1 dual attacks!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Willpower",""],"parameters":null}
+# {"path":"data/Skills.json","row":"194","tags":null}
+#. Skills/175/name
+msgctxt "tpp:data/Skills.json:194"
+msgid "Willpower"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Rouses the user’s fighting spirit and increases\nAttack. Usable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"195","tags":null}
+#. Skills/175/description
+msgctxt "tpp:data/Skills.json:195"
+msgid ""
+"Rouses the user’s fighting spirit and increases\n"
+"Attack. Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["First Aid",""],"parameters":null}
+# {"path":"data/Skills.json","row":"196","tags":null}
+#. Skills/176/name
+msgctxt "tpp:data/Skills.json:196"
+msgid "First Aid"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 performs %2!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"197","tags":null}
+#. Skills/176/message1
+msgctxt "tpp:data/Skills.json:197"
+msgid "%1 performs %2!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Maiden’s Stance",""],"parameters":null}
+# {"path":"data/Skills.json","row":"198","tags":null}
+#. Skills/177/name
+msgctxt "tpp:data/Skills.json:198"
+msgid "Maiden’s Stance"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs a super powerful attack on an enemy.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"199","tags":null}
+#. Skills/177/description
+msgctxt "tpp:data/Skills.json:199"
+msgid "Performs a super powerful attack on an enemy."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spin Crash",""],"parameters":null}
+# {"path":"data/Skills.json","row":"200","tags":null}
+#. Skills/178/name
+msgctxt "tpp:data/Skills.json:200"
+msgid "Spin Crash"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs a powerful attack on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"201","tags":null}
+#. Skills/178/description
+msgctxt "tpp:data/Skills.json:201"
+msgid "Performs a powerful attack on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Priest & Sorcerer Skills",""],"parameters":null}
+# {"path":"data/Skills.json","row":"202","tags":null}
+#. Skills/185/name
+msgctxt "tpp:data/Skills.json:202"
+msgid "-----Priest & Sorcerer Skills"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magic Barrier",""],"parameters":null}
+# {"path":"data/Skills.json","row":"203","tags":null}
+#. Skills/186/name
+msgctxt "tpp:data/Skills.json:203"
+msgid "Magic Barrier"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases all allies’ Defense and M.Defense.\nUsable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"204","tags":null}
+#. Skills/186/description
+msgctxt "tpp:data/Skills.json:204"
+msgid ""
+"Increases all allies’ Defense and M.Defense.\n"
+"Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 offered a prayer!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"205","tags":null}
+#. Skills/186/message1
+msgctxt "tpp:data/Skills.json:205"
+msgid "%1 offered a prayer!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spell Enhancement",""],"parameters":null}
+# {"path":"data/Skills.json","row":"206","tags":null}
+#. Skills/187/name
+msgctxt "tpp:data/Skills.json:206"
+msgid "Spell Enhancement"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Greatly increases the user’s M.Attack for 5 turns.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"207","tags":null}
+#. Skills/187/description
+msgctxt "tpp:data/Skills.json:207"
+msgid "Greatly increases the user’s M.Attack for 5 turns."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Yell",""],"parameters":null}
+# {"path":"data/Skills.json","row":"208","tags":null}
+#. Skills/188/name
+msgctxt "tpp:data/Skills.json:208"
+msgid "Yell"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Rouses all allies’ fighting spirit and increases\nAttack. Usable up to 2 times in a row.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"209","tags":null}
+#. Skills/188/description
+#. Skills/200/description
+msgctxt "tpp:data/Skills.json:209"
+msgid ""
+"Rouses all allies’ fighting spirit and increases\n"
+"Attack. Usable up to 2 times in a row."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 gave encouragement!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"210","tags":null}
+#. Skills/188/message1
+msgctxt "tpp:data/Skills.json:210"
+msgid "%1 gave encouragement!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Meteor",""],"parameters":null}
+# {"path":"data/Skills.json","row":"211","tags":null}
+#. Skills/189/name
+msgctxt "tpp:data/Skills.json:211"
+msgid "Meteor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire Weapon",""],"parameters":null}
+# {"path":"data/Skills.json","row":"212","tags":null}
+#. Skills/190/name
+msgctxt "tpp:data/Skills.json:212"
+msgid "Fire Weapon"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bestows Fire-type for 5 turns.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"213","tags":null}
+#. Skills/190/description
+msgctxt "tpp:data/Skills.json:213"
+msgid "Bestows Fire-type for 5 turns."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice Weapon",""],"parameters":null}
+# {"path":"data/Skills.json","row":"214","tags":null}
+#. Skills/191/name
+msgctxt "tpp:data/Skills.json:214"
+msgid "Ice Weapon"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bestows Ice-type for 5 turns.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"215","tags":null}
+#. Skills/191/description
+msgctxt "tpp:data/Skills.json:215"
+msgid "Bestows Ice-type for 5 turns."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder Weapon",""],"parameters":null}
+# {"path":"data/Skills.json","row":"216","tags":null}
+#. Skills/192/name
+msgctxt "tpp:data/Skills.json:216"
+msgid "Thunder Weapon"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bestows Thunder-type for 5 turns.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"217","tags":null}
+#. Skills/192/description
+msgctxt "tpp:data/Skills.json:217"
+msgid "Bestows Thunder-type for 5 turns."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magic Mirror",""],"parameters":null}
+# {"path":"data/Skills.json","row":"218","tags":null}
+#. Skills/193/name
+msgctxt "tpp:data/Skills.json:218"
+msgid "Magic Mirror"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Reflects M.Attack aimed at the user for 5 turns.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"219","tags":null}
+#. Skills/193/description
+msgctxt "tpp:data/Skills.json:219"
+msgid "Reflects M.Attack aimed at the user for 5 turns."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Knight Skills",""],"parameters":null}
+# {"path":"data/Skills.json","row":"220","tags":null}
+#. Skills/195/name
+msgctxt "tpp:data/Skills.json:220"
+msgid "-----Knight Skills"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Protect",""],"parameters":null}
+# {"path":"data/Skills.json","row":"221","tags":null}
+#. Skills/196/name
+msgctxt "tpp:data/Skills.json:221"
+msgid "Protect"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Automatically protects allies with low HP for 1 turn.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"222","tags":null}
+#. Skills/196/description
+msgctxt "tpp:data/Skills.json:222"
+msgid "Automatically protects allies with low HP for 1 turn."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 protects team.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"223","tags":null}
+#. Skills/196/message1
+msgctxt "tpp:data/Skills.json:223"
+msgid "%1 protects team."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Falcon Thrust",""],"parameters":null}
+# {"path":"data/Skills.json","row":"224","tags":null}
+#. Skills/197/name
+msgctxt "tpp:data/Skills.json:224"
+msgid "Falcon Thrust"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Performs an attack on an enemy faster than anyone\nelse.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"225","tags":null}
+#. Skills/197/description
+msgctxt "tpp:data/Skills.json:225"
+msgid ""
+"Performs an attack on an enemy faster than anyone\n"
+"else."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Double Thrust",""],"parameters":null}
+# {"path":"data/Skills.json","row":"226","tags":null}
+#. Skills/198/name
+msgctxt "tpp:data/Skills.json:226"
+msgid "Double Thrust"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Armor Piercer",""],"parameters":null}
+# {"path":"data/Skills.json","row":"227","tags":null}
+#. Skills/199/name
+msgctxt "tpp:data/Skills.json:227"
+msgid "Armor Piercer"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Battle Cry",""],"parameters":null}
+# {"path":"data/Skills.json","row":"228","tags":null}
+#. Skills/200/name
+msgctxt "tpp:data/Skills.json:228"
+msgid "Battle Cry"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 made a battle cry!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"229","tags":null}
+#. Skills/200/message1
+msgctxt "tpp:data/Skills.json:229"
+msgid "%1 made a battle cry!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Windmill",""],"parameters":null}
+# {"path":"data/Skills.json","row":"230","tags":null}
+#. Skills/201/name
+msgctxt "tpp:data/Skills.json:230"
+msgid "Windmill"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Clear Mind",""],"parameters":null}
+# {"path":"data/Skills.json","row":"231","tags":null}
+#. Skills/202/name
+msgctxt "tpp:data/Skills.json:231"
+msgid "Clear Mind"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Slightly increases the user’s TP.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"232","tags":null}
+#. Skills/202/description
+msgctxt "tpp:data/Skills.json:232"
+msgid "Slightly increases the user’s TP."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 cleared their mind!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"233","tags":null}
+#. Skills/202/message1
+msgctxt "tpp:data/Skills.json:233"
+msgid "%1 cleared their mind!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wild Thrust",""],"parameters":null}
+# {"path":"data/Skills.json","row":"234","tags":null}
+#. Skills/203/name
+msgctxt "tpp:data/Skills.json:234"
+msgid "Wild Thrust"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Randomly performs 4 attacks on 4 enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"235","tags":null}
+#. Skills/203/description
+msgctxt "tpp:data/Skills.json:235"
+msgid "Randomly performs 4 attacks on 4 enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Bandit Skills",""],"parameters":null}
+# {"path":"data/Skills.json","row":"236","tags":null}
+#. Skills/205/name
+msgctxt "tpp:data/Skills.json:236"
+msgid "-----Bandit Skills"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Warm-up",""],"parameters":null}
+# {"path":"data/Skills.json","row":"237","tags":null}
+#. Skills/207/name
+msgctxt "tpp:data/Skills.json:237"
+msgid "Warm-up"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases the user’s Agility.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"238","tags":null}
+#. Skills/207/description
+msgctxt "tpp:data/Skills.json:238"
+msgid "Increases the user’s Agility."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 started %2!",""],"parameters":null}
+# {"path":"data/Skills.json","row":"239","tags":null}
+#. Skills/207/message1
+msgctxt "tpp:data/Skills.json:239"
+msgid "%1 started %2!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Flare",""],"parameters":null}
+# {"path":"data/Skills.json","row":"240","tags":null}
+#. Skills/208/name
+msgctxt "tpp:data/Skills.json:240"
+msgid "Flare"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Watchful Eye",""],"parameters":null}
+# {"path":"data/Skills.json","row":"241","tags":null}
+#. Skills/209/name
+msgctxt "tpp:data/Skills.json:241"
+msgid "Watchful Eye"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Increases items and money gained from battle for\na while.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"242","tags":null}
+#. Skills/209/description
+msgctxt "tpp:data/Skills.json:242"
+msgid ""
+"Increases items and money gained from battle for\n"
+"a while."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 is observing their surroundings carefully.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"243","tags":null}
+#. Skills/209/message1
+msgctxt "tpp:data/Skills.json:243"
+msgid "%1 is observing their surroundings carefully."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind Call",""],"parameters":null}
+# {"path":"data/Skills.json","row":"244","tags":null}
+#. Skills/210/name
+msgctxt "tpp:data/Skills.json:244"
+msgid "Wind Call"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hide",""],"parameters":null}
+# {"path":"data/Skills.json","row":"245","tags":null}
+#. Skills/211/name
+msgctxt "tpp:data/Skills.json:245"
+msgid "Hide"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Makes the user harder to target.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"246","tags":null}
+#. Skills/211/description
+msgctxt "tpp:data/Skills.json:246"
+msgid "Makes the user harder to target."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 hid.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"247","tags":null}
+#. Skills/211/message1
+msgctxt "tpp:data/Skills.json:247"
+msgid "%1 hid."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Martial Artist Skills",""],"parameters":null}
+# {"path":"data/Skills.json","row":"248","tags":null}
+#. Skills/215/name
+msgctxt "tpp:data/Skills.json:248"
+msgid "-----Martial Artist Skills"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sweep",""],"parameters":null}
+# {"path":"data/Skills.json","row":"249","tags":null}
+#. Skills/216/name
+msgctxt "tpp:data/Skills.json:249"
+msgid "Sweep"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts damage and causes all enemies to lose balance.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"250","tags":null}
+#. Skills/216/description
+msgctxt "tpp:data/Skills.json:250"
+msgid "Inflicts damage and causes all enemies to lose balance."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Qigong",""],"parameters":null}
+# {"path":"data/Skills.json","row":"251","tags":null}
+#. Skills/217/name
+msgctxt "tpp:data/Skills.json:251"
+msgid "Qigong"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cures the user from being weakened.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"252","tags":null}
+#. Skills/217/description
+msgctxt "tpp:data/Skills.json:252"
+msgid "Cures the user from being weakened."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Roundhouse Kick",""],"parameters":null}
+# {"path":"data/Skills.json","row":"253","tags":null}
+#. Skills/218/name
+msgctxt "tpp:data/Skills.json:253"
+msgid "Roundhouse Kick"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts huge damage on all enemies.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"254","tags":null}
+#. Skills/218/description
+msgctxt "tpp:data/Skills.json:254"
+msgid "Inflicts huge damage on all enemies."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Tiger Dance",""],"parameters":null}
+# {"path":"data/Skills.json","row":"255","tags":null}
+#. Skills/219/name
+msgctxt "tpp:data/Skills.json:255"
+msgid "Tiger Dance"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Hunter Skills",""],"parameters":null}
+# {"path":"data/Skills.json","row":"256","tags":null}
+#. Skills/225/name
+msgctxt "tpp:data/Skills.json:256"
+msgid "-----Hunter Skills"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Point Shot",""],"parameters":null}
+# {"path":"data/Skills.json","row":"257","tags":null}
+#. Skills/226/name
+msgctxt "tpp:data/Skills.json:257"
+msgid "Point Shot"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Decreases an enemy’s Attack and Defense.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"258","tags":null}
+#. Skills/226/description
+msgctxt "tpp:data/Skills.json:258"
+msgid "Decreases an enemy’s Attack and Defense."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stun Shot",""],"parameters":null}
+# {"path":"data/Skills.json","row":"259","tags":null}
+#. Skills/227/name
+msgctxt "tpp:data/Skills.json:259"
+msgid "Stun Shot"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shoots at the footing of all enemies and causes them\nto lose balance.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"260","tags":null}
+#. Skills/227/description
+msgctxt "tpp:data/Skills.json:260"
+msgid ""
+"Shoots at the footing of all enemies and causes them\n"
+"to lose balance."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Team Shot",""],"parameters":null}
+# {"path":"data/Skills.json","row":"261","tags":null}
+#. Skills/228/name
+msgctxt "tpp:data/Skills.json:261"
+msgid "Team Shot"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts damage on an enemy 5 times.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"262","tags":null}
+#. Skills/228/description
+msgctxt "tpp:data/Skills.json:262"
+msgid "Inflicts damage on an enemy 5 times."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Rain Shot",""],"parameters":null}
+# {"path":"data/Skills.json","row":"263","tags":null}
+#. Skills/229/name
+msgctxt "tpp:data/Skills.json:263"
+msgid "Rain Shot"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Inflicts damage on all enemies 2 times.",""],"parameters":null}
+# {"path":"data/Skills.json","row":"264","tags":null}
+#. Skills/229/description
+msgctxt "tpp:data/Skills.json:264"
+msgid "Inflicts damage on all enemies 2 times."
+msgstr ""

@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Map008.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["EV001",""],"parameters":null}
+# {"path":"data/Map008.json","row":"0","tags":null}
+#. Map008/events/1/name
+msgctxt "tpp:data/Map008.json:0"
+msgid "EV001"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV002",""],"parameters":null}
+# {"path":"data/Map008.json","row":"1","tags":null}
+#. Map008/events/2/name
+msgctxt "tpp:data/Map008.json:1"
+msgid "EV002"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stephanie",""],"parameters":null}
+# {"path":"data/Map008.json","row":"2","tags":null}
+#. Map008/events/2/pages/0/list/13/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/17/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/53/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/58/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/60/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/68/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/71/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/82/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/84/Show Text Attributes/actorName
+#. Map008/events/8/name
+msgctxt "tpp:data/Map008.json:2"
+msgid "Stephanie"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["¡Meadow! ¿Por qué has tardado tanto?",""],"parameters":[{"headerIndex":13,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"3","tags":null}
+# [{"headerIndex":13,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/13/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:3"
+msgid "¡Meadow! ¿Por qué has tardado tanto?"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ven, preséntate a tu nueva familia.",""],"parameters":[{"headerIndex":17,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"4","tags":null}
+# [{"headerIndex":17,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/17/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:4"
+msgid "Ven, preséntate a tu nueva familia."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Meadow",""],"parameters":null}
+# {"path":"data/Map008.json","row":"5","tags":null}
+#. Map008/events/2/pages/0/list/24/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/47/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/55/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/87/Show Text Attributes/actorName
+msgctxt "tpp:data/Map008.json:5"
+msgid "Meadow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Umm... \\. Hola... \\.Soy Meadow... \\.Meadow Springful.",""],"parameters":[{"headerIndex":24,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]}
+# {"path":"data/Map008.json","row":"6","tags":null}
+# [{"headerIndex":24,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]
+#. Map008/events/2/pages/0/list/24/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:6"
+msgid "Umm... \\. Hola... \\.Soy Meadow... \\.Meadow Springful."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Father Ferdinand",""],"parameters":null}
+# {"path":"data/Map008.json","row":"7","tags":null}
+#. Map008/events/2/pages/0/list/27/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/29/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/31/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/74/Show Text Attributes/actorName
+#. Map008/events/5/name
+msgctxt "tpp:data/Map008.json:7"
+msgid "Father Ferdinand"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Es un placer conocerte al fin, Hija mía.",""],"parameters":[{"headerIndex":27,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]}
+# {"path":"data/Map008.json","row":"8","tags":null}
+# [{"headerIndex":27,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]
+#. Map008/events/2/pages/0/list/27/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:8"
+msgid "Es un placer conocerte al fin, Hija mía."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Soy el Padre Ferdinand Malroy, fundador de este Monasterio.",""],"parameters":[{"headerIndex":29,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]}
+# {"path":"data/Map008.json","row":"9","tags":null}
+# [{"headerIndex":29,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]
+#. Map008/events/2/pages/0/list/29/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:9"
+msgid "Soy el Padre Ferdinand Malroy, fundador de este Monasterio."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Nos alegra darte la bienvenida.",""],"parameters":[{"headerIndex":31,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]}
+# {"path":"data/Map008.json","row":"10","tags":null}
+# [{"headerIndex":31,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]
+#. Map008/events/2/pages/0/list/31/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:10"
+msgid "Nos alegra darte la bienvenida."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mother Miriam",""],"parameters":null}
+# {"path":"data/Map008.json","row":"11","tags":null}
+#. Map008/events/2/pages/0/list/34/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/37/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/77/Show Text Attributes/actorName
+#. Map008/events/6/name
+msgctxt "tpp:data/Map008.json:11"
+msgid "Mother Miriam"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Soy la Madre Miriam Venecia... \\.Madre Superiora de este\nMonasterio.",""],"parameters":[{"headerIndex":34,"headerParam":["SF_People1",7,0,2,"Mother Miriam"],"rowInfoText":"Mother Miriam"}]}
+# {"path":"data/Map008.json","row":"12","tags":null}
+# [{"headerIndex":34,"headerParam":["SF_People1",7,0,2,"Mother Miriam"],"rowInfoText":"Mother Miriam"}]
+#. Map008/events/2/pages/0/list/34/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:12"
+msgid ""
+"Soy la Madre Miriam Venecia... \\.Madre Superiora de este\n"
+"Monasterio."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Aquí aprenderás sobre el Señor Jesucristo y su misericordia.",""],"parameters":[{"headerIndex":37,"headerParam":["SF_People1",7,0,2,"Mother Miriam"],"rowInfoText":"Mother Miriam"}]}
+# {"path":"data/Map008.json","row":"13","tags":null}
+# [{"headerIndex":37,"headerParam":["SF_People1",7,0,2,"Mother Miriam"],"rowInfoText":"Mother Miriam"}]
+#. Map008/events/2/pages/0/list/37/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:13"
+msgid "Aquí aprenderás sobre el Señor Jesucristo y su misericordia."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Viktor",""],"parameters":null}
+# {"path":"data/Map008.json","row":"14","tags":null}
+#. Map008/events/2/pages/0/list/40/Show Text Attributes/actorName
+#. Map008/events/2/pages/0/list/43/Show Text Attributes/actorName
+msgctxt "tpp:data/Map008.json:14"
+msgid "Viktor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Y yo soy el Hermano Viktor Cade... \\.Soy el Sacristán que\nsirve al Señor junto al Padre Ferdinand.",""],"parameters":[{"headerIndex":40,"headerParam":["SF_Actor1",6,0,2,"Viktor"],"rowInfoText":"Viktor"}]}
+# {"path":"data/Map008.json","row":"15","tags":null}
+# [{"headerIndex":40,"headerParam":["SF_Actor1",6,0,2,"Viktor"],"rowInfoText":"Viktor"}]
+#. Map008/events/2/pages/0/list/40/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:15"
+msgid ""
+"Y yo soy el Hermano Viktor Cade... \\.Soy el Sacristán que\n"
+"sirve al Señor junto al Padre Ferdinand."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Puedo mostrarte el Monasterio después de que hayamos\nterminado de presentarte al resto de la familia.",""],"parameters":[{"headerIndex":43,"headerParam":["SF_Actor1",6,0,2,"Viktor"],"rowInfoText":"Viktor"}]}
+# {"path":"data/Map008.json","row":"16","tags":null}
+# [{"headerIndex":43,"headerParam":["SF_Actor1",6,0,2,"Viktor"],"rowInfoText":"Viktor"}]
+#. Map008/events/2/pages/0/list/43/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:16"
+msgid ""
+"Puedo mostrarte el Monasterio después de que hayamos\n"
+"terminado de presentarte al resto de la familia."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Encantada de conoceros.",""],"parameters":[{"headerIndex":47,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]}
+# {"path":"data/Map008.json","row":"17","tags":null}
+# [{"headerIndex":47,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]
+#. Map008/events/2/pages/0/list/47/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:17"
+msgid "Encantada de conoceros."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["¿Te gusta este sitio, Meadow?",""],"parameters":[{"headerIndex":53,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"18","tags":null}
+# [{"headerIndex":53,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/53/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:18"
+msgid "¿Te gusta este sitio, Meadow?"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["¡S-\\.Sí!",""],"parameters":[{"headerIndex":55,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]}
+# {"path":"data/Map008.json","row":"19","tags":null}
+# [{"headerIndex":55,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]
+#. Map008/events/2/pages/0/list/55/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:19"
+msgid "¡S-\\.Sí!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bien, me alegra escuchar eso. ",""],"parameters":[{"headerIndex":58,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"20","tags":null}
+# [{"headerIndex":58,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/58/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:20"
+msgid "Bien, me alegra escuchar eso. "
+msgstr ""
+
+# tpp-json:{"v":1,"row":["¡Este será tu nuevo hogar!",""],"parameters":[{"headerIndex":60,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"21","tags":null}
+# [{"headerIndex":60,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/60/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:21"
+msgid "¡Este será tu nuevo hogar!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Muchas gracias por tomar a Meadow bajo su cuidado, Padre\nFerdinand.",""],"parameters":[{"headerIndex":68,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"22","tags":null}
+# [{"headerIndex":68,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/68/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:22"
+msgid ""
+"Muchas gracias por tomar a Meadow bajo su cuidado, Padre\n"
+"Ferdinand."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Y gracias también a ti, Madre Superiora. Hermano Viktor.",""],"parameters":[{"headerIndex":71,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"23","tags":null}
+# [{"headerIndex":71,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/71/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:23"
+msgid "Y gracias también a ti, Madre Superiora. Hermano Viktor."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Es la voluntad de Dios que aquellos que estén perdidos\npuedan encontrar aquí su refugio.",""],"parameters":[{"headerIndex":74,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]}
+# {"path":"data/Map008.json","row":"24","tags":null}
+# [{"headerIndex":74,"headerParam":["People3",4,0,2,"Father Ferdinand"],"rowInfoText":"Father Ferdinand"}]
+#. Map008/events/2/pages/0/list/74/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:24"
+msgid ""
+"Es la voluntad de Dios que aquellos que estén perdidos\n"
+"puedan encontrar aquí su refugio."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sí, cuidaremos bien de Meadow.",""],"parameters":[{"headerIndex":77,"headerParam":["SF_People1",7,0,2,"Mother Miriam"],"rowInfoText":"Mother Miriam"}]}
+# {"path":"data/Map008.json","row":"25","tags":null}
+# [{"headerIndex":77,"headerParam":["SF_People1",7,0,2,"Mother Miriam"],"rowInfoText":"Mother Miriam"}]
+#. Map008/events/2/pages/0/list/77/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:25"
+msgid "Sí, cuidaremos bien de Meadow."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Supongo que entonces esto es una despedida, Meadow.",""],"parameters":[{"headerIndex":82,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"26","tags":null}
+# [{"headerIndex":82,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/82/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:26"
+msgid "Supongo que entonces esto es una despedida, Meadow."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Si me necesitas, avisa al Padre Ferdinand o a la Madre\nSuperiora. Ellos se pondrán en contacto conmigo.",""],"parameters":[{"headerIndex":84,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]}
+# {"path":"data/Map008.json","row":"27","tags":null}
+# [{"headerIndex":84,"headerParam":["SF_Actor3",1,0,2,"Stephanie"],"rowInfoText":"Stephanie"}]
+#. Map008/events/2/pages/0/list/84/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:27"
+msgid ""
+"Si me necesitas, avisa al Padre Ferdinand o a la Madre\n"
+"Superiora. Ellos se pondrán en contacto conmigo."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Vale... \\.Doctora Stephanie... \\.Gracias.",""],"parameters":[{"headerIndex":87,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]}
+# {"path":"data/Map008.json","row":"28","tags":null}
+# [{"headerIndex":87,"headerParam":["SF_Actor3",7,0,2,"Meadow"],"rowInfoText":"Meadow"}]
+#. Map008/events/2/pages/0/list/87/message/hasPicture/bottom
+msgctxt "tpp:data/Map008.json:28"
+msgid "Vale... \\.Doctora Stephanie... \\.Gracias."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV003",""],"parameters":null}
+# {"path":"data/Map008.json","row":"29","tags":null}
+#. Map008/events/3/name
+msgctxt "tpp:data/Map008.json:29"
+msgid "EV003"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV004",""],"parameters":null}
+# {"path":"data/Map008.json","row":"30","tags":null}
+#. Map008/events/4/name
+msgctxt "tpp:data/Map008.json:30"
+msgid "EV004"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["<stepSound>",""],"parameters":null}
+# {"path":"data/Map008.json","row":"31","tags":null}
+#. Map008/events/5/note
+#. Map008/events/6/note
+#. Map008/events/7/note
+#. Map008/events/8/note
+msgctxt "tpp:data/Map008.json:31"
+msgid "<stepSound>"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Brother Viktor",""],"parameters":null}
+# {"path":"data/Map008.json","row":"32","tags":null}
+#. Map008/events/7/name
+msgctxt "tpp:data/Map008.json:32"
+msgid "Brother Viktor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV009",""],"parameters":null}
+# {"path":"data/Map008.json","row":"33","tags":null}
+#. Map008/events/9/name
+msgctxt "tpp:data/Map008.json:33"
+msgid "EV009"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV016",""],"parameters":null}
+# {"path":"data/Map008.json","row":"34","tags":null}
+#. Map008/events/16/name
+msgctxt "tpp:data/Map008.json:34"
+msgid "EV016"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV017",""],"parameters":null}
+# {"path":"data/Map008.json","row":"35","tags":null}
+#. Map008/events/17/name
+msgctxt "tpp:data/Map008.json:35"
+msgid "EV017"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV018",""],"parameters":null}
+# {"path":"data/Map008.json","row":"36","tags":null}
+#. Map008/events/18/name
+msgctxt "tpp:data/Map008.json:36"
+msgid "EV018"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV019",""],"parameters":null}
+# {"path":"data/Map008.json","row":"37","tags":null}
+#. Map008/events/19/name
+msgctxt "tpp:data/Map008.json:37"
+msgid "EV019"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV020",""],"parameters":null}
+# {"path":"data/Map008.json","row":"38","tags":null}
+#. Map008/events/20/name
+msgctxt "tpp:data/Map008.json:38"
+msgid "EV020"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV021",""],"parameters":null}
+# {"path":"data/Map008.json","row":"39","tags":null}
+#. Map008/events/21/name
+msgctxt "tpp:data/Map008.json:39"
+msgid "EV021"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV022",""],"parameters":null}
+# {"path":"data/Map008.json","row":"40","tags":null}
+#. Map008/events/22/name
+msgctxt "tpp:data/Map008.json:40"
+msgid "EV022"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EV023",""],"parameters":null}
+# {"path":"data/Map008.json","row":"41","tags":null}
+#. Map008/events/23/name
+msgctxt "tpp:data/Map008.json:41"
+msgid "EV023"
+msgstr ""

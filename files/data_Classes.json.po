@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Classes.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["Swordsman",""],"parameters":null}
+# {"path":"data/Classes.json","row":"0","tags":null}
+#. Classes/1/name
+msgctxt "tpp:data/Classes.json:0"
+msgid "Swordsman"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sorcerer",""],"parameters":null}
+# {"path":"data/Classes.json","row":"1","tags":null}
+#. Classes/2/name
+msgctxt "tpp:data/Classes.json:1"
+msgid "Sorcerer"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Priest",""],"parameters":null}
+# {"path":"data/Classes.json","row":"2","tags":null}
+#. Classes/3/name
+msgctxt "tpp:data/Classes.json:2"
+msgid "Priest"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Knight",""],"parameters":null}
+# {"path":"data/Classes.json","row":"3","tags":null}
+#. Classes/4/name
+msgctxt "tpp:data/Classes.json:3"
+msgid "Knight"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Martial Artist",""],"parameters":null}
+# {"path":"data/Classes.json","row":"4","tags":null}
+#. Classes/5/name
+msgctxt "tpp:data/Classes.json:4"
+msgid "Martial Artist"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magic Swordsman",""],"parameters":null}
+# {"path":"data/Classes.json","row":"5","tags":null}
+#. Classes/6/name
+msgctxt "tpp:data/Classes.json:5"
+msgid "Magic Swordsman"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hunter",""],"parameters":null}
+# {"path":"data/Classes.json","row":"6","tags":null}
+#. Classes/7/name
+msgctxt "tpp:data/Classes.json:6"
+msgid "Hunter"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bandit",""],"parameters":null}
+# {"path":"data/Classes.json","row":"7","tags":null}
+#. Classes/8/name
+msgctxt "tpp:data/Classes.json:7"
+msgid "Bandit"
+msgstr ""

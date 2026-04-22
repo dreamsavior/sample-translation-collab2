@@ -1,0 +1,1228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Armors.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["-----Armors",""],"parameters":null}
+# {"path":"data/Armors.json","row":"0","tags":null}
+#. Armors/1/name
+msgctxt "tpp:data/Armors.json:0"
+msgid "-----Armors"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Linen Clothing",""],"parameters":null}
+# {"path":"data/Armors.json","row":"1","tags":null}
+#. Armors/2/name
+msgctxt "tpp:data/Armors.json:1"
+msgid "Linen Clothing"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] Linen clothing with high\nbreathability.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"2","tags":null}
+#. Armors/2/description
+msgctxt "tpp:data/Armors.json:2"
+msgid ""
+"[General Equipment] Linen clothing with high\n"
+"breathability."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Leather Vest",""],"parameters":null}
+# {"path":"data/Armors.json","row":"3","tags":null}
+#. Armors/3/name
+msgctxt "tpp:data/Armors.json:3"
+msgid "Leather Vest"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] A vest made of tanned hide.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"4","tags":null}
+#. Armors/3/description
+msgctxt "tpp:data/Armors.json:4"
+msgid "[General Equipment] A vest made of tanned hide."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Adventurer’s Clothing",""],"parameters":null}
+# {"path":"data/Armors.json","row":"5","tags":null}
+#. Armors/4/name
+msgctxt "tpp:data/Armors.json:5"
+msgid "Adventurer’s Clothing"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] Durable clothing that can\nwithstand rough travels.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"6","tags":null}
+#. Armors/4/description
+msgctxt "tpp:data/Armors.json:6"
+msgid ""
+"[General Equipment] Durable clothing that can\n"
+"withstand rough travels."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hard Leather",""],"parameters":null}
+# {"path":"data/Armors.json","row":"7","tags":null}
+#. Armors/5/name
+msgctxt "tpp:data/Armors.json:7"
+msgid "Hard Leather"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] A vest made of leather\nhardened with glue.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"8","tags":null}
+#. Armors/5/description
+msgctxt "tpp:data/Armors.json:8"
+msgid ""
+"[General Equipment] A vest made of leather\n"
+"hardened with glue."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Brigandine",""],"parameters":null}
+# {"path":"data/Armors.json","row":"9","tags":null}
+#. Armors/6/name
+msgctxt "tpp:data/Armors.json:9"
+msgid "Brigandine"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] Tanned hide clothing reinforced\nwith steel plates.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"10","tags":null}
+#. Armors/6/description
+msgctxt "tpp:data/Armors.json:10"
+msgid ""
+"[General Equipment] Tanned hide clothing reinforced\n"
+"with steel plates."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cloth Armor",""],"parameters":null}
+# {"path":"data/Armors.json","row":"11","tags":null}
+#. Armors/8/name
+msgctxt "tpp:data/Armors.json:11"
+msgid "Cloth Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] Armor made of tough cloth.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"12","tags":null}
+#. Armors/8/description
+msgctxt "tpp:data/Armors.json:12"
+msgid "[Light Equipment] Armor made of tough cloth."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Leather Armor",""],"parameters":null}
+# {"path":"data/Armors.json","row":"13","tags":null}
+#. Armors/9/name
+msgctxt "tpp:data/Armors.json:13"
+msgid "Leather Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] Armor made of layered hide.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"14","tags":null}
+#. Armors/9/description
+msgctxt "tpp:data/Armors.json:14"
+msgid "[Light Equipment] Armor made of layered hide."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bronze Breastplate",""],"parameters":null}
+# {"path":"data/Armors.json","row":"15","tags":null}
+#. Armors/10/name
+msgctxt "tpp:data/Armors.json:15"
+msgid "Bronze Breastplate"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A breastplate made of bronze.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"16","tags":null}
+#. Armors/10/description
+msgctxt "tpp:data/Armors.json:16"
+msgid "[Light Equipment] A breastplate made of bronze."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Iron Breastplate",""],"parameters":null}
+# {"path":"data/Armors.json","row":"17","tags":null}
+#. Armors/11/name
+msgctxt "tpp:data/Armors.json:17"
+msgid "Iron Breastplate"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A breastplate made of iron steel.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"18","tags":null}
+#. Armors/11/description
+msgctxt "tpp:data/Armors.json:18"
+msgid "[Light Equipment] A breastplate made of iron steel."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Breastplate",""],"parameters":null}
+# {"path":"data/Armors.json","row":"19","tags":null}
+#. Armors/12/name
+msgctxt "tpp:data/Armors.json:19"
+msgid "Mithril Breastplate"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A breastplate made of mithril.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"20","tags":null}
+#. Armors/12/description
+msgctxt "tpp:data/Armors.json:20"
+msgid "[Light Equipment] A breastplate made of mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Breastplate",""],"parameters":null}
+# {"path":"data/Armors.json","row":"21","tags":null}
+#. Armors/13/name
+msgctxt "tpp:data/Armors.json:21"
+msgid "Dragon Breastplate"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A breastplate made of dragon scales.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"22","tags":null}
+#. Armors/13/description
+msgctxt "tpp:data/Armors.json:22"
+msgid "[Light Equipment] A breastplate made of dragon scales."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bronze Armor",""],"parameters":null}
+# {"path":"data/Armors.json","row":"23","tags":null}
+#. Armors/15/name
+msgctxt "tpp:data/Armors.json:23"
+msgid "Bronze Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] Armor made of bronze.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"24","tags":null}
+#. Armors/15/description
+msgctxt "tpp:data/Armors.json:24"
+msgid "[Heavy Equipment] Armor made of bronze."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Iron Armor",""],"parameters":null}
+# {"path":"data/Armors.json","row":"25","tags":null}
+#. Armors/16/name
+msgctxt "tpp:data/Armors.json:25"
+msgid "Iron Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] Armor made of iron steel.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"26","tags":null}
+#. Armors/16/description
+msgctxt "tpp:data/Armors.json:26"
+msgid "[Heavy Equipment] Armor made of iron steel."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Armor",""],"parameters":null}
+# {"path":"data/Armors.json","row":"27","tags":null}
+#. Armors/17/name
+msgctxt "tpp:data/Armors.json:27"
+msgid "Mithril Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] Armor made of mithril.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"28","tags":null}
+#. Armors/17/description
+msgctxt "tpp:data/Armors.json:28"
+msgid "[Heavy Equipment] Armor made of mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Armor",""],"parameters":null}
+# {"path":"data/Armors.json","row":"29","tags":null}
+#. Armors/18/name
+msgctxt "tpp:data/Armors.json:29"
+msgid "Dragon Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] Armor made of dragon scales.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"30","tags":null}
+#. Armors/18/description
+msgctxt "tpp:data/Armors.json:30"
+msgid "[Heavy Equipment] Armor made of dragon scales."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cotton Robe",""],"parameters":null}
+# {"path":"data/Armors.json","row":"31","tags":null}
+#. Armors/20/name
+msgctxt "tpp:data/Armors.json:31"
+msgid "Cotton Robe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A basic, widely prevalent robe.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"32","tags":null}
+#. Armors/20/description
+msgctxt "tpp:data/Armors.json:32"
+msgid "[Magic Equipment] A basic, widely prevalent robe."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Silk Cloak",""],"parameters":null}
+# {"path":"data/Armors.json","row":"33","tags":null}
+#. Armors/21/name
+msgctxt "tpp:data/Armors.json:33"
+msgid "Silk Cloak"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A high-quality cloak made of silk.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"34","tags":null}
+#. Armors/21/description
+msgctxt "tpp:data/Armors.json:34"
+msgid "[Magic Equipment] A high-quality cloak made of silk."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Tactician’s Robe",""],"parameters":null}
+# {"path":"data/Armors.json","row":"35","tags":null}
+#. Armors/22/name
+msgctxt "tpp:data/Armors.json:35"
+msgid "Tactician’s Robe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A robe inscribed with runic letters.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"36","tags":null}
+#. Armors/22/description
+msgctxt "tpp:data/Armors.json:36"
+msgid "[Magic Equipment] A robe inscribed with runic letters."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sage’s Robe",""],"parameters":null}
+# {"path":"data/Armors.json","row":"37","tags":null}
+#. Armors/23/name
+msgctxt "tpp:data/Armors.json:37"
+msgid "Sage’s Robe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A robe interwoven with magical\npowers.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"38","tags":null}
+#. Armors/23/description
+msgctxt "tpp:data/Armors.json:38"
+msgid ""
+"[Magic Equipment] A robe interwoven with magical\n"
+"powers."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Elemental Cloak",""],"parameters":null}
+# {"path":"data/Armors.json","row":"39","tags":null}
+#. Armors/24/name
+msgctxt "tpp:data/Armors.json:39"
+msgid "Elemental Cloak"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A cloak that houses the power of\nspirits.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"40","tags":null}
+#. Armors/24/description
+msgctxt "tpp:data/Armors.json:40"
+msgid ""
+"[Magic Equipment] A cloak that houses the power of\n"
+"spirits."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Shields",""],"parameters":null}
+# {"path":"data/Armors.json","row":"41","tags":null}
+#. Armors/26/name
+msgctxt "tpp:data/Armors.json:41"
+msgid "-----Shields"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Buckler",""],"parameters":null}
+# {"path":"data/Armors.json","row":"42","tags":null}
+#. Armors/27/name
+msgctxt "tpp:data/Armors.json:42"
+msgid "Buckler"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Small Shield] A small shield for deflecting attacks.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"43","tags":null}
+#. Armors/27/description
+msgctxt "tpp:data/Armors.json:43"
+msgid "[Small Shield] A small shield for deflecting attacks."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Round Buckler",""],"parameters":null}
+# {"path":"data/Armors.json","row":"44","tags":null}
+#. Armors/28/name
+msgctxt "tpp:data/Armors.json:44"
+msgid "Round Buckler"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Small Shield] A round, wooden shield reinforced\nwith an iron frame.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"45","tags":null}
+#. Armors/28/description
+msgctxt "tpp:data/Armors.json:45"
+msgid ""
+"[Small Shield] A round, wooden shield reinforced\n"
+"with an iron frame."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spiked Buckler",""],"parameters":null}
+# {"path":"data/Armors.json","row":"46","tags":null}
+#. Armors/29/name
+msgctxt "tpp:data/Armors.json:46"
+msgid "Spiked Buckler"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Small Shield] A round shield with attack spikes\nattached.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"47","tags":null}
+#. Armors/29/description
+msgctxt "tpp:data/Armors.json:47"
+msgid ""
+"[Small Shield] A round shield with attack spikes\n"
+"attached."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Buckler",""],"parameters":null}
+# {"path":"data/Armors.json","row":"48","tags":null}
+#. Armors/30/name
+msgctxt "tpp:data/Armors.json:48"
+msgid "Mithril Buckler"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Small Shield] A small shield made of mithril.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"49","tags":null}
+#. Armors/30/description
+msgctxt "tpp:data/Armors.json:49"
+msgid "[Small Shield] A small shield made of mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Buckler",""],"parameters":null}
+# {"path":"data/Armors.json","row":"50","tags":null}
+#. Armors/31/name
+msgctxt "tpp:data/Armors.json:50"
+msgid "Dragon Buckler"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Small Shield] A small shield made of dragon scales.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"51","tags":null}
+#. Armors/31/description
+msgctxt "tpp:data/Armors.json:51"
+msgid "[Small Shield] A small shield made of dragon scales."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wooden Shield",""],"parameters":null}
+# {"path":"data/Armors.json","row":"52","tags":null}
+#. Armors/33/name
+msgctxt "tpp:data/Armors.json:52"
+msgid "Wooden Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Large Shield] A large, average wooden shield.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"53","tags":null}
+#. Armors/33/description
+msgctxt "tpp:data/Armors.json:53"
+msgid "[Large Shield] A large, average wooden shield."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bronze Shield",""],"parameters":null}
+# {"path":"data/Armors.json","row":"54","tags":null}
+#. Armors/34/name
+msgctxt "tpp:data/Armors.json:54"
+msgid "Bronze Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Large Shield] A large shield made of bronze plates.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"55","tags":null}
+#. Armors/34/description
+msgctxt "tpp:data/Armors.json:55"
+msgid "[Large Shield] A large shield made of bronze plates."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Iron Shield",""],"parameters":null}
+# {"path":"data/Armors.json","row":"56","tags":null}
+#. Armors/35/name
+msgctxt "tpp:data/Armors.json:56"
+msgid "Iron Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Large Shield] A large shield made of iron steel.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"57","tags":null}
+#. Armors/35/description
+msgctxt "tpp:data/Armors.json:57"
+msgid "[Large Shield] A large shield made of iron steel."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Shield",""],"parameters":null}
+# {"path":"data/Armors.json","row":"58","tags":null}
+#. Armors/36/name
+msgctxt "tpp:data/Armors.json:58"
+msgid "Mithril Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Large Shield] A large shield made of mithril.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"59","tags":null}
+#. Armors/36/description
+msgctxt "tpp:data/Armors.json:59"
+msgid "[Large Shield] A large shield made of mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Shield",""],"parameters":null}
+# {"path":"data/Armors.json","row":"60","tags":null}
+#. Armors/37/name
+msgctxt "tpp:data/Armors.json:60"
+msgid "Dragon Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Large Shield] A large shield made of dragon scales.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"61","tags":null}
+#. Armors/37/description
+msgctxt "tpp:data/Armors.json:61"
+msgid "[Large Shield] A large shield made of dragon scales."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wooden Bangle",""],"parameters":null}
+# {"path":"data/Armors.json","row":"62","tags":null}
+#. Armors/39/name
+msgctxt "tpp:data/Armors.json:62"
+msgid "Wooden Bangle"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A bangle enchanted with protective\nmagic.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"63","tags":null}
+#. Armors/39/description
+#. Armors/40/description
+#. Armors/41/description
+#. Armors/42/description
+#. Armors/43/description
+msgctxt "tpp:data/Armors.json:63"
+msgid ""
+"[Magic Equipment] A bangle enchanted with protective\n"
+"magic."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bronze Bangle",""],"parameters":null}
+# {"path":"data/Armors.json","row":"64","tags":null}
+#. Armors/40/name
+msgctxt "tpp:data/Armors.json:64"
+msgid "Bronze Bangle"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Iron Bangle",""],"parameters":null}
+# {"path":"data/Armors.json","row":"65","tags":null}
+#. Armors/41/name
+msgctxt "tpp:data/Armors.json:65"
+msgid "Iron Bangle"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Bangle",""],"parameters":null}
+# {"path":"data/Armors.json","row":"66","tags":null}
+#. Armors/42/name
+msgctxt "tpp:data/Armors.json:66"
+msgid "Mithril Bangle"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Bangle",""],"parameters":null}
+# {"path":"data/Armors.json","row":"67","tags":null}
+#. Armors/43/name
+msgctxt "tpp:data/Armors.json:67"
+msgid "Dragon Bangle"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Helmets",""],"parameters":null}
+# {"path":"data/Armors.json","row":"68","tags":null}
+#. Armors/45/name
+msgctxt "tpp:data/Armors.json:68"
+msgid "-----Helmets"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bandana",""],"parameters":null}
+# {"path":"data/Armors.json","row":"69","tags":null}
+#. Armors/46/name
+msgctxt "tpp:data/Armors.json:69"
+msgid "Bandana"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] A cloth headband for protecting\nthe forehead.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"70","tags":null}
+#. Armors/46/description
+msgctxt "tpp:data/Armors.json:70"
+msgid ""
+"[General Equipment] A cloth headband for protecting\n"
+"the forehead."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Leather Bandana",""],"parameters":null}
+# {"path":"data/Armors.json","row":"71","tags":null}
+#. Armors/47/name
+msgctxt "tpp:data/Armors.json:71"
+msgid "Leather Bandana"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] A leather headband for protecting\nthe forehead.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"72","tags":null}
+#. Armors/47/description
+msgctxt "tpp:data/Armors.json:72"
+msgid ""
+"[General Equipment] A leather headband for protecting\n"
+"the forehead."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Leather Hat",""],"parameters":null}
+# {"path":"data/Armors.json","row":"73","tags":null}
+#. Armors/48/name
+msgctxt "tpp:data/Armors.json:73"
+msgid "Leather Hat"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] A hat made of leather.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"74","tags":null}
+#. Armors/48/description
+msgctxt "tpp:data/Armors.json:74"
+msgid "[General Equipment] A hat made of leather."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Turban",""],"parameters":null}
+# {"path":"data/Armors.json","row":"75","tags":null}
+#. Armors/49/name
+msgctxt "tpp:data/Armors.json:75"
+msgid "Turban"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] A thick cloth layered and wrapped\naround the head for protection.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"76","tags":null}
+#. Armors/49/description
+msgctxt "tpp:data/Armors.json:76"
+msgid ""
+"[General Equipment] A thick cloth layered and wrapped\n"
+"around the head for protection."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Feathered Hat",""],"parameters":null}
+# {"path":"data/Armors.json","row":"77","tags":null}
+#. Armors/50/name
+msgctxt "tpp:data/Armors.json:77"
+msgid "Feathered Hat"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[General Equipment] A fancy hat with bird feathers\nattached.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"78","tags":null}
+#. Armors/50/description
+msgctxt "tpp:data/Armors.json:78"
+msgid ""
+"[General Equipment] A fancy hat with bird feathers\n"
+"attached."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Leather Cap",""],"parameters":null}
+# {"path":"data/Armors.json","row":"79","tags":null}
+#. Armors/52/name
+msgctxt "tpp:data/Armors.json:79"
+msgid "Leather Cap"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A hat made of tanned hide.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"80","tags":null}
+#. Armors/52/description
+msgctxt "tpp:data/Armors.json:80"
+msgid "[Light Equipment] A hat made of tanned hide."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wooden Cap",""],"parameters":null}
+# {"path":"data/Armors.json","row":"81","tags":null}
+#. Armors/53/name
+msgctxt "tpp:data/Armors.json:81"
+msgid "Wooden Cap"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A light helmet made of wood.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"82","tags":null}
+#. Armors/53/description
+msgctxt "tpp:data/Armors.json:82"
+msgid "[Light Equipment] A light helmet made of wood."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bronze Cap",""],"parameters":null}
+# {"path":"data/Armors.json","row":"83","tags":null}
+#. Armors/54/name
+msgctxt "tpp:data/Armors.json:83"
+msgid "Bronze Cap"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A light helmet reinforced with\nbronze plates.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"84","tags":null}
+#. Armors/54/description
+msgctxt "tpp:data/Armors.json:84"
+msgid ""
+"[Light Equipment] A light helmet reinforced with\n"
+"bronze plates."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Iron Cap",""],"parameters":null}
+# {"path":"data/Armors.json","row":"85","tags":null}
+#. Armors/55/name
+msgctxt "tpp:data/Armors.json:85"
+msgid "Iron Cap"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A light helmet reinforced with\niron plates.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"86","tags":null}
+#. Armors/55/description
+msgctxt "tpp:data/Armors.json:86"
+msgid ""
+"[Light Equipment] A light helmet reinforced with\n"
+"iron plates."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Cap",""],"parameters":null}
+# {"path":"data/Armors.json","row":"87","tags":null}
+#. Armors/56/name
+msgctxt "tpp:data/Armors.json:87"
+msgid "Mithril Cap"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A light helmet reinforced with\nmithril.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"88","tags":null}
+#. Armors/56/description
+msgctxt "tpp:data/Armors.json:88"
+msgid ""
+"[Light Equipment] A light helmet reinforced with\n"
+"mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Cap",""],"parameters":null}
+# {"path":"data/Armors.json","row":"89","tags":null}
+#. Armors/57/name
+msgctxt "tpp:data/Armors.json:89"
+msgid "Dragon Cap"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Light Equipment] A light helmet reinforced with\ndragon scales.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"90","tags":null}
+#. Armors/57/description
+msgctxt "tpp:data/Armors.json:90"
+msgid ""
+"[Light Equipment] A light helmet reinforced with\n"
+"dragon scales."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Chainmail Coif",""],"parameters":null}
+# {"path":"data/Armors.json","row":"91","tags":null}
+#. Armors/59/name
+msgctxt "tpp:data/Armors.json:91"
+msgid "Chainmail Coif"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] A hood made with fine, woven chains.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"92","tags":null}
+#. Armors/59/description
+msgctxt "tpp:data/Armors.json:92"
+msgid "[Heavy Equipment] A hood made with fine, woven chains."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bronze Helm",""],"parameters":null}
+# {"path":"data/Armors.json","row":"93","tags":null}
+#. Armors/60/name
+msgctxt "tpp:data/Armors.json:93"
+msgid "Bronze Helm"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] A helmet made with thick bronze\nplates.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"94","tags":null}
+#. Armors/60/description
+msgctxt "tpp:data/Armors.json:94"
+msgid ""
+"[Heavy Equipment] A helmet made with thick bronze\n"
+"plates."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Iron Helm",""],"parameters":null}
+# {"path":"data/Armors.json","row":"95","tags":null}
+#. Armors/61/name
+msgctxt "tpp:data/Armors.json:95"
+msgid "Iron Helm"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] A helmet made with thick iron\nplates.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"96","tags":null}
+#. Armors/61/description
+msgctxt "tpp:data/Armors.json:96"
+msgid ""
+"[Heavy Equipment] A helmet made with thick iron\n"
+"plates."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Helm",""],"parameters":null}
+# {"path":"data/Armors.json","row":"97","tags":null}
+#. Armors/62/name
+msgctxt "tpp:data/Armors.json:97"
+msgid "Mithril Helm"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] A helmet made of mithril.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"98","tags":null}
+#. Armors/62/description
+msgctxt "tpp:data/Armors.json:98"
+msgid "[Heavy Equipment] A helmet made of mithril."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dragon Helm",""],"parameters":null}
+# {"path":"data/Armors.json","row":"99","tags":null}
+#. Armors/63/name
+msgctxt "tpp:data/Armors.json:99"
+msgid "Dragon Helm"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Heavy Equipment] A helmet made with dragon scales.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"100","tags":null}
+#. Armors/63/description
+msgctxt "tpp:data/Armors.json:100"
+msgid "[Heavy Equipment] A helmet made with dragon scales."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Pointed Hat",""],"parameters":null}
+# {"path":"data/Armors.json","row":"101","tags":null}
+#. Armors/65/name
+msgctxt "tpp:data/Armors.json:101"
+msgid "Pointed Hat"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A triangular, tanned hide hat with\na wide brim.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"102","tags":null}
+#. Armors/65/description
+msgctxt "tpp:data/Armors.json:102"
+msgid ""
+"[Magic Equipment] A triangular, tanned hide hat with\n"
+"a wide brim."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Circlet",""],"parameters":null}
+# {"path":"data/Armors.json","row":"103","tags":null}
+#. Armors/66/name
+msgctxt "tpp:data/Armors.json:103"
+msgid "Circlet"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A simple crown enchanted with\nprotective magic.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"104","tags":null}
+#. Armors/66/description
+msgctxt "tpp:data/Armors.json:104"
+msgid ""
+"[Magic Equipment] A simple crown enchanted with\n"
+"protective magic."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Silver Circlet",""],"parameters":null}
+# {"path":"data/Armors.json","row":"105","tags":null}
+#. Armors/67/name
+msgctxt "tpp:data/Armors.json:105"
+msgid "Silver Circlet"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A silver crown enchanted with\nprotective magic.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"106","tags":null}
+#. Armors/67/description
+msgctxt "tpp:data/Armors.json:106"
+msgid ""
+"[Magic Equipment] A silver crown enchanted with\n"
+"protective magic."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Gold Circlet",""],"parameters":null}
+# {"path":"data/Armors.json","row":"107","tags":null}
+#. Armors/68/name
+msgctxt "tpp:data/Armors.json:107"
+msgid "Gold Circlet"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A pure gold crown enchanted with\nprotective magic.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"108","tags":null}
+#. Armors/68/description
+msgctxt "tpp:data/Armors.json:108"
+msgid ""
+"[Magic Equipment] A pure gold crown enchanted with\n"
+"protective magic."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mithril Circlet",""],"parameters":null}
+# {"path":"data/Armors.json","row":"109","tags":null}
+#. Armors/69/name
+msgctxt "tpp:data/Armors.json:109"
+msgid "Mithril Circlet"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A mithril crown enchanted with\nprotective magic.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"110","tags":null}
+#. Armors/69/description
+msgctxt "tpp:data/Armors.json:110"
+msgid ""
+"[Magic Equipment] A mithril crown enchanted with\n"
+"protective magic."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Master Circlet",""],"parameters":null}
+# {"path":"data/Armors.json","row":"111","tags":null}
+#. Armors/70/name
+msgctxt "tpp:data/Armors.json:111"
+msgid "Master Circlet"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Magic Equipment] A sage’s crown enchanted with\nprotective magic.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"112","tags":null}
+#. Armors/70/description
+msgctxt "tpp:data/Armors.json:112"
+msgid ""
+"[Magic Equipment] A sage’s crown enchanted with\n"
+"protective magic."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["-----Accessories",""],"parameters":null}
+# {"path":"data/Armors.json","row":"113","tags":null}
+#. Armors/72/name
+msgctxt "tpp:data/Armors.json:113"
+msgid "-----Accessories"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Guard Stone",""],"parameters":null}
+# {"path":"data/Armors.json","row":"114","tags":null}
+#. Armors/73/name
+msgctxt "tpp:data/Armors.json:114"
+msgid "Guard Stone"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A charm that increases Defense.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"115","tags":null}
+#. Armors/73/description
+msgctxt "tpp:data/Armors.json:115"
+msgid "[Accessory] A charm that increases Defense."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Guard Ring",""],"parameters":null}
+# {"path":"data/Armors.json","row":"116","tags":null}
+#. Armors/74/name
+msgctxt "tpp:data/Armors.json:116"
+msgid "Guard Ring"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that increases Defense.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"117","tags":null}
+#. Armors/74/description
+msgctxt "tpp:data/Armors.json:117"
+msgid "[Accessory] A ring that increases Defense."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power Stone",""],"parameters":null}
+# {"path":"data/Armors.json","row":"118","tags":null}
+#. Armors/75/name
+msgctxt "tpp:data/Armors.json:118"
+msgid "Power Stone"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A charm that increases Attack.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"119","tags":null}
+#. Armors/75/description
+msgctxt "tpp:data/Armors.json:119"
+msgid "[Accessory] A charm that increases Attack."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Power Ring",""],"parameters":null}
+# {"path":"data/Armors.json","row":"120","tags":null}
+#. Armors/76/name
+msgctxt "tpp:data/Armors.json:120"
+msgid "Power Ring"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that increases Attack.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"121","tags":null}
+#. Armors/76/description
+msgctxt "tpp:data/Armors.json:121"
+msgid "[Accessory] A ring that increases Attack."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Speed Stone",""],"parameters":null}
+# {"path":"data/Armors.json","row":"122","tags":null}
+#. Armors/77/name
+msgctxt "tpp:data/Armors.json:122"
+msgid "Speed Stone"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A charm that increases Agility.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"123","tags":null}
+#. Armors/77/description
+msgctxt "tpp:data/Armors.json:123"
+msgid "[Accessory] A charm that increases Agility."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Speed Ring",""],"parameters":null}
+# {"path":"data/Armors.json","row":"124","tags":null}
+#. Armors/78/name
+msgctxt "tpp:data/Armors.json:124"
+msgid "Speed Ring"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that increases Agility.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"125","tags":null}
+#. Armors/78/description
+msgctxt "tpp:data/Armors.json:125"
+msgid "[Accessory] A ring that increases Agility."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Lucky Stone",""],"parameters":null}
+# {"path":"data/Armors.json","row":"126","tags":null}
+#. Armors/79/name
+msgctxt "tpp:data/Armors.json:126"
+msgid "Lucky Stone"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A charm that increases Luck.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"127","tags":null}
+#. Armors/79/description
+msgctxt "tpp:data/Armors.json:127"
+msgid "[Accessory] A charm that increases Luck."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Lucky Ring",""],"parameters":null}
+# {"path":"data/Armors.json","row":"128","tags":null}
+#. Armors/80/name
+msgctxt "tpp:data/Armors.json:128"
+msgid "Lucky Ring"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that increases Luck.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"129","tags":null}
+#. Armors/80/description
+msgctxt "tpp:data/Armors.json:129"
+msgid "[Accessory] A ring that increases Luck."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magical Stone",""],"parameters":null}
+# {"path":"data/Armors.json","row":"130","tags":null}
+#. Armors/81/name
+msgctxt "tpp:data/Armors.json:130"
+msgid "Magical Stone"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A charm that increases M.Attack.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"131","tags":null}
+#. Armors/81/description
+msgctxt "tpp:data/Armors.json:131"
+msgid "[Accessory] A charm that increases M.Attack."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magical Ring",""],"parameters":null}
+# {"path":"data/Armors.json","row":"132","tags":null}
+#. Armors/82/name
+msgctxt "tpp:data/Armors.json:132"
+msgid "Magical Ring"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that increases M.Attack.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"133","tags":null}
+#. Armors/82/description
+msgctxt "tpp:data/Armors.json:133"
+msgid "[Accessory] A ring that increases M.Attack."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shooter Stone",""],"parameters":null}
+# {"path":"data/Armors.json","row":"134","tags":null}
+#. Armors/83/name
+msgctxt "tpp:data/Armors.json:134"
+msgid "Shooter Stone"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A charm that increases the Hit Rate of\nattacks.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"135","tags":null}
+#. Armors/83/description
+msgctxt "tpp:data/Armors.json:135"
+msgid ""
+"[Accessory] A charm that increases the Hit Rate of\n"
+"attacks."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shooter Ring",""],"parameters":null}
+# {"path":"data/Armors.json","row":"136","tags":null}
+#. Armors/84/name
+msgctxt "tpp:data/Armors.json:136"
+msgid "Shooter Ring"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that increases the Hit Rate of\nattacks.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"137","tags":null}
+#. Armors/84/description
+msgctxt "tpp:data/Armors.json:137"
+msgid ""
+"[Accessory] A ring that increases the Hit Rate of\n"
+"attacks."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Master Stone",""],"parameters":null}
+# {"path":"data/Armors.json","row":"138","tags":null}
+#. Armors/85/name
+msgctxt "tpp:data/Armors.json:138"
+msgid "Master Stone"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A charm that reduces MP Cost by 20%.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"139","tags":null}
+#. Armors/85/description
+msgctxt "tpp:data/Armors.json:139"
+msgid "[Accessory] A charm that reduces MP Cost by 20%."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Master Ring",""],"parameters":null}
+# {"path":"data/Armors.json","row":"140","tags":null}
+#. Armors/86/name
+msgctxt "tpp:data/Armors.json:140"
+msgid "Master Ring"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that reduces MP Cost by 50%.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"141","tags":null}
+#. Armors/86/description
+msgctxt "tpp:data/Armors.json:141"
+msgid "[Accessory] A ring that reduces MP Cost by 50%."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Poison Guard",""],"parameters":null}
+# {"path":"data/Armors.json","row":"142","tags":null}
+#. Armors/88/name
+msgctxt "tpp:data/Armors.json:142"
+msgid "Poison Guard"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that helps prevent Poison and\nParalysis states.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"143","tags":null}
+#. Armors/88/description
+msgctxt "tpp:data/Armors.json:143"
+msgid ""
+"[Accessory] A ring that helps prevent Poison and\n"
+"Paralysis states."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Super Poison Guard",""],"parameters":null}
+# {"path":"data/Armors.json","row":"144","tags":null}
+#. Armors/89/name
+msgctxt "tpp:data/Armors.json:144"
+msgid "Super Poison Guard"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that entirely prevents Poison\nand Paralysis states.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"145","tags":null}
+#. Armors/89/description
+msgctxt "tpp:data/Armors.json:145"
+msgid ""
+"[Accessory] A ring that entirely prevents Poison\n"
+"and Paralysis states."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Mental Guard",""],"parameters":null}
+# {"path":"data/Armors.json","row":"146","tags":null}
+#. Armors/91/name
+msgctxt "tpp:data/Armors.json:146"
+msgid "Mental Guard"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that helps prevent Sleep,\nSilence, Confusion, Charm, and Rage states.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"147","tags":null}
+#. Armors/91/description
+msgctxt "tpp:data/Armors.json:147"
+msgid ""
+"[Accessory] A ring that helps prevent Sleep,\n"
+"Silence, Confusion, Charm, and Rage states."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Super Mental Guard",""],"parameters":null}
+# {"path":"data/Armors.json","row":"148","tags":null}
+#. Armors/92/name
+msgctxt "tpp:data/Armors.json:148"
+msgid "Super Mental Guard"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] A ring that entirely prevents Sleep,\nSilence, Confusion, Charm, and Rage states.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"149","tags":null}
+#. Armors/92/description
+msgctxt "tpp:data/Armors.json:149"
+msgid ""
+"[Accessory] A ring that entirely prevents Sleep,\n"
+"Silence, Confusion, Charm, and Rage states."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Enemy Radar",""],"parameters":null}
+# {"path":"data/Armors.json","row":"150","tags":null}
+#. Armors/94/name
+msgctxt "tpp:data/Armors.json:150"
+msgid "Enemy Radar"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] Raises the chance of performing a\npreemptive attack.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"151","tags":null}
+#. Armors/94/description
+msgctxt "tpp:data/Armors.json:151"
+msgid ""
+"[Accessory] Raises the chance of performing a\n"
+"preemptive attack."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Warning Bell",""],"parameters":null}
+# {"path":"data/Armors.json","row":"152","tags":null}
+#. Armors/95/name
+msgctxt "tpp:data/Armors.json:152"
+msgid "Warning Bell"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] Prevents surprise attacks.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"153","tags":null}
+#. Armors/95/description
+msgctxt "tpp:data/Armors.json:153"
+msgid "[Accessory] Prevents surprise attacks."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Stocker",""],"parameters":null}
+# {"path":"data/Armors.json","row":"154","tags":null}
+#. Armors/96/name
+msgctxt "tpp:data/Armors.json:154"
+msgid "Stocker"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] Allows you to carryover TP over into the\nnext battle.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"155","tags":null}
+#. Armors/96/description
+msgctxt "tpp:data/Armors.json:155"
+msgid ""
+"[Accessory] Allows you to carryover TP over into the\n"
+"next battle."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ring of Guts",""],"parameters":null}
+# {"path":"data/Armors.json","row":"156","tags":null}
+#. Armors/97/name
+msgctxt "tpp:data/Armors.json:156"
+msgid "Ring of Guts"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] Increases TP Charge Rate.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"157","tags":null}
+#. Armors/97/description
+msgctxt "tpp:data/Armors.json:157"
+msgid "[Accessory] Increases TP Charge Rate."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["MP Keeper",""],"parameters":null}
+# {"path":"data/Armors.json","row":"158","tags":null}
+#. Armors/98/name
+msgctxt "tpp:data/Armors.json:158"
+msgid "MP Keeper"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] Decreases MP Cost Rate.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"159","tags":null}
+#. Armors/98/description
+msgctxt "tpp:data/Armors.json:159"
+msgid "[Accessory] Decreases MP Cost Rate."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Elemental Guard",""],"parameters":null}
+# {"path":"data/Armors.json","row":"160","tags":null}
+#. Armors/99/name
+msgctxt "tpp:data/Armors.json:160"
+msgid "Elemental Guard"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] Damage inflicted by Fire, Water, Wind,\nand Earth attacks is halved.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"161","tags":null}
+#. Armors/99/description
+msgctxt "tpp:data/Armors.json:161"
+msgid ""
+"[Accessory] Damage inflicted by Fire, Water, Wind,\n"
+"and Earth attacks is halved."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spectacles",""],"parameters":null}
+# {"path":"data/Armors.json","row":"162","tags":null}
+#. Armors/100/name
+msgctxt "tpp:data/Armors.json:162"
+msgid "Spectacles"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["[Accessory] Sharpens eyesight and increases hit rate.",""],"parameters":null}
+# {"path":"data/Armors.json","row":"163","tags":null}
+#. Armors/100/description
+msgctxt "tpp:data/Armors.json:163"
+msgid "[Accessory] Sharpens eyesight and increases hit rate."
+msgstr ""

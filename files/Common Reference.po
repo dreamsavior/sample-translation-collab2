@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Common Reference\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["レベル","Level",null],"parameters":null}
+# {"path":"Common Reference","row":"0","tags":null}
+msgctxt "tpp:Common Reference:0"
+msgid "レベル"
+msgstr "Level"
+
+# tpp-json:{"v":1,"row":["最大ＨＰ","MaxHP",null],"parameters":null}
+# {"path":"Common Reference","row":"1","tags":null}
+msgctxt "tpp:Common Reference:1"
+msgid "最大ＨＰ"
+msgstr "MaxHP"
+
+# tpp-json:{"v":1,"row":["最大ＭＰ","MaxMP",null],"parameters":null}
+# {"path":"Common Reference","row":"2","tags":null}
+msgctxt "tpp:Common Reference:2"
+msgid "最大ＭＰ"
+msgstr "MaxMP"
+
+# tpp-json:{"v":1,"row":["攻撃力","ATK",null],"parameters":null}
+# {"path":"Common Reference","row":"3","tags":null}
+msgctxt "tpp:Common Reference:3"
+msgid "攻撃力"
+msgstr "ATK"
+
+# tpp-json:{"v":1,"row":["防御力","DEF",null],"parameters":null}
+# {"path":"Common Reference","row":"4","tags":null}
+msgctxt "tpp:Common Reference:4"
+msgid "防御力"
+msgstr "DEF"
+
+# tpp-json:{"v":1,"row":["魔法力","MAT",null],"parameters":null}
+# {"path":"Common Reference","row":"5","tags":null}
+msgctxt "tpp:Common Reference:5"
+msgid "魔法力"
+msgstr "MAT"
+
+# tpp-json:{"v":1,"row":["魔法防御","MDF",null],"parameters":null}
+# {"path":"Common Reference","row":"6","tags":null}
+msgctxt "tpp:Common Reference:6"
+msgid "魔法防御"
+msgstr "MDF"
+
+# tpp-json:{"v":1,"row":["敏捷性","AGI",null],"parameters":null}
+# {"path":"Common Reference","row":"7","tags":null}
+msgctxt "tpp:Common Reference:7"
+msgid "敏捷性"
+msgstr "AGI"
+
+# tpp-json:{"v":1,"row":["使用しない","do not use",null],"parameters":null}
+# {"path":"Common Reference","row":"8","tags":null}
+msgctxt "tpp:Common Reference:8"
+msgid "使用しない"
+msgstr "do not use"
+
+# tpp-json:{"v":1,"row":["宝珠","Gem",null],"parameters":null}
+# {"path":"Common Reference","row":"9","tags":null}
+msgctxt "tpp:Common Reference:9"
+msgid "宝珠"
+msgstr "Gem"
+
+# tpp-json:{"v":1,"row":["装飾品","Accessory",null],"parameters":null}
+# {"path":"Common Reference","row":"10","tags":null}
+msgctxt "tpp:Common Reference:10"
+msgid "装飾品"
+msgstr "Accessory"
+
+# tpp-json:{"v":1,"row":["アイテム","Item",null,null,null],"parameters":null}
+# {"path":"Common Reference","row":"11","tags":null}
+msgctxt "tpp:Common Reference:11"
+msgid "アイテム"
+msgstr "Item"
+
+# tpp-json:{"v":1,"row":["ポーション","Potion",null,null,null],"parameters":null}
+# {"path":"Common Reference","row":"12","tags":null}
+msgctxt "tpp:Common Reference:12"
+msgid "ポーション"
+msgstr "Potion"
+
+# tpp-json:{"v":1,"row":["ヒール","Heal",null,null,null],"parameters":null}
+# {"path":"Common Reference","row":"13","tags":null}
+msgctxt "tpp:Common Reference:13"
+msgid "ヒール"
+msgstr "Heal"

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enemies.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["Goblin",""],"parameters":null}
+# {"path":"data/Enemies.json","row":"0","tags":null}
+#. Enemies/1/name
+msgctxt "tpp:data/Enemies.json:0"
+msgid "Goblin"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Gnome",""],"parameters":null}
+# {"path":"data/Enemies.json","row":"1","tags":null}
+#. Enemies/2/name
+msgctxt "tpp:data/Enemies.json:1"
+msgid "Gnome"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Crow",""],"parameters":null}
+# {"path":"data/Enemies.json","row":"2","tags":null}
+#. Enemies/3/name
+msgctxt "tpp:data/Enemies.json:2"
+msgid "Crow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Treant",""],"parameters":null}
+# {"path":"data/Enemies.json","row":"3","tags":null}
+#. Enemies/4/name
+msgctxt "tpp:data/Enemies.json:3"
+msgid "Treant"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hi_monster",""],"parameters":null}
+# {"path":"data/Enemies.json","row":"4","tags":null}
+#. Enemies/5/name
+msgctxt "tpp:data/Enemies.json:4"
+msgid "Hi_monster"
+msgstr ""

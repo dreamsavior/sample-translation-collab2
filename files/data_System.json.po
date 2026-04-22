@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: System.json\n"
+"POT-Creation-Date: 2026-04-22 05:14+0000\n"
+"PO-Revision-Date: 2026-04-22 05:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Generator: Translator++ Git Collab\n"
+
+# tpp-json:{"v":1,"row":["Project4",""],"parameters":null}
+# {"path":"data/System.json","row":"0","tags":null}
+#. System/gameTitle
+msgctxt "tpp:data/System.json:0"
+msgid "Project4"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["General Armor",""],"parameters":null}
+# {"path":"data/System.json","row":"1","tags":null}
+#. System/armorTypes/1
+msgctxt "tpp:data/System.json:1"
+msgid "General Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magic Armor",""],"parameters":null}
+# {"path":"data/System.json","row":"2","tags":null}
+#. System/armorTypes/2
+msgctxt "tpp:data/System.json:2"
+msgid "Magic Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light Armor",""],"parameters":null}
+# {"path":"data/System.json","row":"3","tags":null}
+#. System/armorTypes/3
+msgctxt "tpp:data/System.json:3"
+msgid "Light Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Heavy Armor",""],"parameters":null}
+# {"path":"data/System.json","row":"4","tags":null}
+#. System/armorTypes/4
+msgctxt "tpp:data/System.json:4"
+msgid "Heavy Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Small Shield",""],"parameters":null}
+# {"path":"data/System.json","row":"5","tags":null}
+#. System/armorTypes/5
+msgctxt "tpp:data/System.json:5"
+msgid "Small Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Large Shield",""],"parameters":null}
+# {"path":"data/System.json","row":"6","tags":null}
+#. System/armorTypes/6
+msgctxt "tpp:data/System.json:6"
+msgid "Large Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Physical",""],"parameters":null}
+# {"path":"data/System.json","row":"7","tags":null}
+#. System/elements/1
+msgctxt "tpp:data/System.json:7"
+msgid "Physical"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fire",""],"parameters":null}
+# {"path":"data/System.json","row":"8","tags":null}
+#. System/elements/2
+msgctxt "tpp:data/System.json:8"
+msgid "Fire"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Ice",""],"parameters":null}
+# {"path":"data/System.json","row":"9","tags":null}
+#. System/elements/3
+msgctxt "tpp:data/System.json:9"
+msgid "Ice"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Thunder",""],"parameters":null}
+# {"path":"data/System.json","row":"10","tags":null}
+#. System/elements/4
+msgctxt "tpp:data/System.json:10"
+msgid "Thunder"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Water",""],"parameters":null}
+# {"path":"data/System.json","row":"11","tags":null}
+#. System/elements/5
+msgctxt "tpp:data/System.json:11"
+msgid "Water"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Earth",""],"parameters":null}
+# {"path":"data/System.json","row":"12","tags":null}
+#. System/elements/6
+msgctxt "tpp:data/System.json:12"
+msgid "Earth"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Wind",""],"parameters":null}
+# {"path":"data/System.json","row":"13","tags":null}
+#. System/elements/7
+msgctxt "tpp:data/System.json:13"
+msgid "Wind"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Light",""],"parameters":null}
+# {"path":"data/System.json","row":"14","tags":null}
+#. System/elements/8
+msgctxt "tpp:data/System.json:14"
+msgid "Light"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Darkness",""],"parameters":null}
+# {"path":"data/System.json","row":"15","tags":null}
+#. System/elements/9
+msgctxt "tpp:data/System.json:15"
+msgid "Darkness"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Weapon",""],"parameters":null}
+# {"path":"data/System.json","row":"16","tags":null}
+#. System/equipTypes/1
+#. System/terms/commands/12
+msgctxt "tpp:data/System.json:16"
+msgid "Weapon"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Shield",""],"parameters":null}
+# {"path":"data/System.json","row":"17","tags":null}
+#. System/equipTypes/2
+msgctxt "tpp:data/System.json:17"
+msgid "Shield"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Head",""],"parameters":null}
+# {"path":"data/System.json","row":"18","tags":null}
+#. System/equipTypes/3
+msgctxt "tpp:data/System.json:18"
+msgid "Head"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Body",""],"parameters":null}
+# {"path":"data/System.json","row":"19","tags":null}
+#. System/equipTypes/4
+msgctxt "tpp:data/System.json:19"
+msgid "Body"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Accessory",""],"parameters":null}
+# {"path":"data/System.json","row":"20","tags":null}
+#. System/equipTypes/5
+msgctxt "tpp:data/System.json:20"
+msgid "Accessory"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Magic",""],"parameters":null}
+# {"path":"data/System.json","row":"21","tags":null}
+#. System/skillTypes/1
+msgctxt "tpp:data/System.json:21"
+msgid "Magic"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Special",""],"parameters":null}
+# {"path":"data/System.json","row":"22","tags":null}
+#. System/skillTypes/2
+msgctxt "tpp:data/System.json:22"
+msgid "Special"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Dagger",""],"parameters":null}
+# {"path":"data/System.json","row":"23","tags":null}
+#. System/weaponTypes/1
+msgctxt "tpp:data/System.json:23"
+msgid "Dagger"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sword",""],"parameters":null}
+# {"path":"data/System.json","row":"24","tags":null}
+#. System/weaponTypes/2
+msgctxt "tpp:data/System.json:24"
+msgid "Sword"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Flail",""],"parameters":null}
+# {"path":"data/System.json","row":"25","tags":null}
+#. System/weaponTypes/3
+msgctxt "tpp:data/System.json:25"
+msgid "Flail"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Axe",""],"parameters":null}
+# {"path":"data/System.json","row":"26","tags":null}
+#. System/weaponTypes/4
+msgctxt "tpp:data/System.json:26"
+msgid "Axe"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Whip",""],"parameters":null}
+# {"path":"data/System.json","row":"27","tags":null}
+#. System/weaponTypes/5
+msgctxt "tpp:data/System.json:27"
+msgid "Whip"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Staff",""],"parameters":null}
+# {"path":"data/System.json","row":"28","tags":null}
+#. System/weaponTypes/6
+msgctxt "tpp:data/System.json:28"
+msgid "Staff"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Bow",""],"parameters":null}
+# {"path":"data/System.json","row":"29","tags":null}
+#. System/weaponTypes/7
+msgctxt "tpp:data/System.json:29"
+msgid "Bow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Crossbow",""],"parameters":null}
+# {"path":"data/System.json","row":"30","tags":null}
+#. System/weaponTypes/8
+msgctxt "tpp:data/System.json:30"
+msgid "Crossbow"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Gun",""],"parameters":null}
+# {"path":"data/System.json","row":"31","tags":null}
+#. System/weaponTypes/9
+msgctxt "tpp:data/System.json:31"
+msgid "Gun"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Claw",""],"parameters":null}
+# {"path":"data/System.json","row":"32","tags":null}
+#. System/weaponTypes/10
+msgctxt "tpp:data/System.json:32"
+msgid "Claw"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Glove",""],"parameters":null}
+# {"path":"data/System.json","row":"33","tags":null}
+#. System/weaponTypes/11
+msgctxt "tpp:data/System.json:33"
+msgid "Glove"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Spear",""],"parameters":null}
+# {"path":"data/System.json","row":"34","tags":null}
+#. System/weaponTypes/12
+msgctxt "tpp:data/System.json:34"
+msgid "Spear"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Level",""],"parameters":null}
+# {"path":"data/System.json","row":"35","tags":null}
+#. System/terms/basic/0
+msgctxt "tpp:data/System.json:35"
+msgid "Level"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Lv",""],"parameters":null}
+# {"path":"data/System.json","row":"36","tags":null}
+#. System/terms/basic/1
+msgctxt "tpp:data/System.json:36"
+msgid "Lv"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["HP",""],"parameters":null}
+# {"path":"data/System.json","row":"37","tags":null}
+#. System/terms/basic/2
+#. System/terms/basic/3
+msgctxt "tpp:data/System.json:37"
+msgid "HP"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["MP",""],"parameters":null}
+# {"path":"data/System.json","row":"38","tags":null}
+#. System/terms/basic/4
+#. System/terms/basic/5
+msgctxt "tpp:data/System.json:38"
+msgid "MP"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["TP",""],"parameters":null}
+# {"path":"data/System.json","row":"39","tags":null}
+#. System/terms/basic/6
+#. System/terms/basic/7
+msgctxt "tpp:data/System.json:39"
+msgid "TP"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["EXP",""],"parameters":null}
+# {"path":"data/System.json","row":"40","tags":null}
+#. System/terms/basic/8
+#. System/terms/basic/9
+msgctxt "tpp:data/System.json:40"
+msgid "EXP"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Fight",""],"parameters":null}
+# {"path":"data/System.json","row":"41","tags":null}
+#. System/terms/commands/0
+msgctxt "tpp:data/System.json:41"
+msgid "Fight"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Escape",""],"parameters":null}
+# {"path":"data/System.json","row":"42","tags":null}
+#. System/terms/commands/1
+msgctxt "tpp:data/System.json:42"
+msgid "Escape"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Attack",""],"parameters":null}
+# {"path":"data/System.json","row":"43","tags":null}
+#. System/terms/commands/2
+#. System/terms/params/2
+msgctxt "tpp:data/System.json:43"
+msgid "Attack"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Guard",""],"parameters":null}
+# {"path":"data/System.json","row":"44","tags":null}
+#. System/terms/commands/3
+msgctxt "tpp:data/System.json:44"
+msgid "Guard"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Item",""],"parameters":null}
+# {"path":"data/System.json","row":"45","tags":null}
+#. System/terms/commands/4
+msgctxt "tpp:data/System.json:45"
+msgid "Item"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Skill",""],"parameters":null}
+# {"path":"data/System.json","row":"46","tags":null}
+#. System/terms/commands/5
+msgctxt "tpp:data/System.json:46"
+msgid "Skill"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Equip",""],"parameters":null}
+# {"path":"data/System.json","row":"47","tags":null}
+#. System/terms/commands/6
+#. System/terms/commands/15
+msgctxt "tpp:data/System.json:47"
+msgid "Equip"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Status",""],"parameters":null}
+# {"path":"data/System.json","row":"48","tags":null}
+#. System/terms/commands/7
+msgctxt "tpp:data/System.json:48"
+msgid "Status"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Formation",""],"parameters":null}
+# {"path":"data/System.json","row":"49","tags":null}
+#. System/terms/commands/8
+msgctxt "tpp:data/System.json:49"
+msgid "Formation"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Save",""],"parameters":null}
+# {"path":"data/System.json","row":"50","tags":null}
+#. System/terms/commands/9
+msgctxt "tpp:data/System.json:50"
+msgid "Save"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Game End",""],"parameters":null}
+# {"path":"data/System.json","row":"51","tags":null}
+#. System/terms/commands/10
+msgctxt "tpp:data/System.json:51"
+msgid "Game End"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Options",""],"parameters":null}
+# {"path":"data/System.json","row":"52","tags":null}
+#. System/terms/commands/11
+msgctxt "tpp:data/System.json:52"
+msgid "Options"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Armor",""],"parameters":null}
+# {"path":"data/System.json","row":"53","tags":null}
+#. System/terms/commands/13
+msgctxt "tpp:data/System.json:53"
+msgid "Armor"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Key Item",""],"parameters":null}
+# {"path":"data/System.json","row":"54","tags":null}
+#. System/terms/commands/14
+msgctxt "tpp:data/System.json:54"
+msgid "Key Item"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Optimize",""],"parameters":null}
+# {"path":"data/System.json","row":"55","tags":null}
+#. System/terms/commands/16
+msgctxt "tpp:data/System.json:55"
+msgid "Optimize"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Clear",""],"parameters":null}
+# {"path":"data/System.json","row":"56","tags":null}
+#. System/terms/commands/17
+msgctxt "tpp:data/System.json:56"
+msgid "Clear"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["New Game",""],"parameters":null}
+# {"path":"data/System.json","row":"57","tags":null}
+#. System/terms/commands/18
+msgctxt "tpp:data/System.json:57"
+msgid "New Game"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Continue",""],"parameters":null}
+# {"path":"data/System.json","row":"58","tags":null}
+#. System/terms/commands/19
+msgctxt "tpp:data/System.json:58"
+msgid "Continue"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["To Title",""],"parameters":null}
+# {"path":"data/System.json","row":"59","tags":null}
+#. System/terms/commands/21
+msgctxt "tpp:data/System.json:59"
+msgid "To Title"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Cancel",""],"parameters":null}
+# {"path":"data/System.json","row":"60","tags":null}
+#. System/terms/commands/22
+msgctxt "tpp:data/System.json:60"
+msgid "Cancel"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Buy",""],"parameters":null}
+# {"path":"data/System.json","row":"61","tags":null}
+#. System/terms/commands/24
+msgctxt "tpp:data/System.json:61"
+msgid "Buy"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Sell",""],"parameters":null}
+# {"path":"data/System.json","row":"62","tags":null}
+#. System/terms/commands/25
+msgctxt "tpp:data/System.json:62"
+msgid "Sell"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Max HP",""],"parameters":null}
+# {"path":"data/System.json","row":"63","tags":null}
+#. System/terms/params/0
+msgctxt "tpp:data/System.json:63"
+msgid "Max HP"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Max MP",""],"parameters":null}
+# {"path":"data/System.json","row":"64","tags":null}
+#. System/terms/params/1
+msgctxt "tpp:data/System.json:64"
+msgid "Max MP"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Defense",""],"parameters":null}
+# {"path":"data/System.json","row":"65","tags":null}
+#. System/terms/params/3
+msgctxt "tpp:data/System.json:65"
+msgid "Defense"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["M.Attack",""],"parameters":null}
+# {"path":"data/System.json","row":"66","tags":null}
+#. System/terms/params/4
+msgctxt "tpp:data/System.json:66"
+msgid "M.Attack"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["M.Defense",""],"parameters":null}
+# {"path":"data/System.json","row":"67","tags":null}
+#. System/terms/params/5
+msgctxt "tpp:data/System.json:67"
+msgid "M.Defense"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Agility",""],"parameters":null}
+# {"path":"data/System.json","row":"68","tags":null}
+#. System/terms/params/6
+msgctxt "tpp:data/System.json:68"
+msgid "Agility"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Luck",""],"parameters":null}
+# {"path":"data/System.json","row":"69","tags":null}
+#. System/terms/params/7
+msgctxt "tpp:data/System.json:69"
+msgid "Luck"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Hit",""],"parameters":null}
+# {"path":"data/System.json","row":"70","tags":null}
+#. System/terms/params/8
+msgctxt "tpp:data/System.json:70"
+msgid "Hit"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Evasion",""],"parameters":null}
+# {"path":"data/System.json","row":"71","tags":null}
+#. System/terms/params/9
+msgctxt "tpp:data/System.json:71"
+msgid "Evasion"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Always Dash",""],"parameters":null}
+# {"path":"data/System.json","row":"72","tags":null}
+#. System/terms/messages/alwaysDash
+msgctxt "tpp:data/System.json:72"
+msgid "Always Dash"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Command Remember",""],"parameters":null}
+# {"path":"data/System.json","row":"73","tags":null}
+#. System/terms/messages/commandRemember
+msgctxt "tpp:data/System.json:73"
+msgid "Command Remember"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Touch UI",""],"parameters":null}
+# {"path":"data/System.json","row":"74","tags":null}
+#. System/terms/messages/touchUI
+msgctxt "tpp:data/System.json:74"
+msgid "Touch UI"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["BGM Volume",""],"parameters":null}
+# {"path":"data/System.json","row":"75","tags":null}
+#. System/terms/messages/bgmVolume
+msgctxt "tpp:data/System.json:75"
+msgid "BGM Volume"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["BGS Volume",""],"parameters":null}
+# {"path":"data/System.json","row":"76","tags":null}
+#. System/terms/messages/bgsVolume
+msgctxt "tpp:data/System.json:76"
+msgid "BGS Volume"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["ME Volume",""],"parameters":null}
+# {"path":"data/System.json","row":"77","tags":null}
+#. System/terms/messages/meVolume
+msgctxt "tpp:data/System.json:77"
+msgid "ME Volume"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["SE Volume",""],"parameters":null}
+# {"path":"data/System.json","row":"78","tags":null}
+#. System/terms/messages/seVolume
+msgctxt "tpp:data/System.json:78"
+msgid "SE Volume"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Possession",""],"parameters":null}
+# {"path":"data/System.json","row":"79","tags":null}
+#. System/terms/messages/possession
+msgctxt "tpp:data/System.json:79"
+msgid "Possession"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Current %1",""],"parameters":null}
+# {"path":"data/System.json","row":"80","tags":null}
+#. System/terms/messages/expTotal
+msgctxt "tpp:data/System.json:80"
+msgid "Current %1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["To Next %1",""],"parameters":null}
+# {"path":"data/System.json","row":"81","tags":null}
+#. System/terms/messages/expNext
+msgctxt "tpp:data/System.json:81"
+msgid "To Next %1"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Which file would you like to save to?",""],"parameters":null}
+# {"path":"data/System.json","row":"82","tags":null}
+#. System/terms/messages/saveMessage
+msgctxt "tpp:data/System.json:82"
+msgid "Which file would you like to save to?"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Which file would you like to load?",""],"parameters":null}
+# {"path":"data/System.json","row":"83","tags":null}
+#. System/terms/messages/loadMessage
+msgctxt "tpp:data/System.json:83"
+msgid "Which file would you like to load?"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["File",""],"parameters":null}
+# {"path":"data/System.json","row":"84","tags":null}
+#. System/terms/messages/file
+msgctxt "tpp:data/System.json:84"
+msgid "File"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Autosave",""],"parameters":null}
+# {"path":"data/System.json","row":"85","tags":null}
+#. System/terms/messages/autosave
+msgctxt "tpp:data/System.json:85"
+msgid "Autosave"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1’s Party",""],"parameters":null}
+# {"path":"data/System.json","row":"86","tags":null}
+#. System/terms/messages/partyName
+msgctxt "tpp:data/System.json:86"
+msgid "%1’s Party"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 emerged!",""],"parameters":null}
+# {"path":"data/System.json","row":"87","tags":null}
+#. System/terms/messages/emerge
+msgctxt "tpp:data/System.json:87"
+msgid "%1 emerged!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 got the upper hand!",""],"parameters":null}
+# {"path":"data/System.json","row":"88","tags":null}
+#. System/terms/messages/preemptive
+msgctxt "tpp:data/System.json:88"
+msgid "%1 got the upper hand!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 was surprised!",""],"parameters":null}
+# {"path":"data/System.json","row":"89","tags":null}
+#. System/terms/messages/surprise
+msgctxt "tpp:data/System.json:89"
+msgid "%1 was surprised!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 has started to escape!",""],"parameters":null}
+# {"path":"data/System.json","row":"90","tags":null}
+#. System/terms/messages/escapeStart
+msgctxt "tpp:data/System.json:90"
+msgid "%1 has started to escape!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["However, it was unable to escape!",""],"parameters":null}
+# {"path":"data/System.json","row":"91","tags":null}
+#. System/terms/messages/escapeFailure
+msgctxt "tpp:data/System.json:91"
+msgid "However, it was unable to escape!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 was victorious!",""],"parameters":null}
+# {"path":"data/System.json","row":"92","tags":null}
+#. System/terms/messages/victory
+msgctxt "tpp:data/System.json:92"
+msgid "%1 was victorious!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 was defeated.",""],"parameters":null}
+# {"path":"data/System.json","row":"93","tags":null}
+#. System/terms/messages/defeat
+msgctxt "tpp:data/System.json:93"
+msgid "%1 was defeated."
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 %2 received!",""],"parameters":null}
+# {"path":"data/System.json","row":"94","tags":null}
+#. System/terms/messages/obtainExp
+msgctxt "tpp:data/System.json:94"
+msgid "%1 %2 received!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1\\G found!",""],"parameters":null}
+# {"path":"data/System.json","row":"95","tags":null}
+#. System/terms/messages/obtainGold
+msgctxt "tpp:data/System.json:95"
+msgid "%1\\G found!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 found!",""],"parameters":null}
+# {"path":"data/System.json","row":"96","tags":null}
+#. System/terms/messages/obtainItem
+msgctxt "tpp:data/System.json:96"
+msgid "%1 found!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 is now %2 %3!",""],"parameters":null}
+# {"path":"data/System.json","row":"97","tags":null}
+#. System/terms/messages/levelUp
+msgctxt "tpp:data/System.json:97"
+msgid "%1 is now %2 %3!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 learned!",""],"parameters":null}
+# {"path":"data/System.json","row":"98","tags":null}
+#. System/terms/messages/obtainSkill
+msgctxt "tpp:data/System.json:98"
+msgid "%1 learned!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 uses %2!",""],"parameters":null}
+# {"path":"data/System.json","row":"99","tags":null}
+#. System/terms/messages/useItem
+msgctxt "tpp:data/System.json:99"
+msgid "%1 uses %2!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["An excellent hit!!",""],"parameters":null}
+# {"path":"data/System.json","row":"100","tags":null}
+#. System/terms/messages/criticalToEnemy
+msgctxt "tpp:data/System.json:100"
+msgid "An excellent hit!!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["A painful blow!!",""],"parameters":null}
+# {"path":"data/System.json","row":"101","tags":null}
+#. System/terms/messages/criticalToActor
+msgctxt "tpp:data/System.json:101"
+msgid "A painful blow!!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 took %2 damage!",""],"parameters":null}
+# {"path":"data/System.json","row":"102","tags":null}
+#. System/terms/messages/actorDamage
+#. System/terms/messages/enemyDamage
+msgctxt "tpp:data/System.json:102"
+msgid "%1 took %2 damage!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 recovered %2 %3!",""],"parameters":null}
+# {"path":"data/System.json","row":"103","tags":null}
+#. System/terms/messages/actorRecovery
+#. System/terms/messages/enemyRecovery
+msgctxt "tpp:data/System.json:103"
+msgid "%1 recovered %2 %3!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 gained %2 %3!",""],"parameters":null}
+# {"path":"data/System.json","row":"104","tags":null}
+#. System/terms/messages/actorGain
+#. System/terms/messages/enemyGain
+msgctxt "tpp:data/System.json:104"
+msgid "%1 gained %2 %3!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 lost %2 %3!",""],"parameters":null}
+# {"path":"data/System.json","row":"105","tags":null}
+#. System/terms/messages/actorLoss
+#. System/terms/messages/enemyLoss
+msgctxt "tpp:data/System.json:105"
+msgid "%1 lost %2 %3!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 was drained of %2 %3!",""],"parameters":null}
+# {"path":"data/System.json","row":"106","tags":null}
+#. System/terms/messages/actorDrain
+#. System/terms/messages/enemyDrain
+msgctxt "tpp:data/System.json:106"
+msgid "%1 was drained of %2 %3!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 took no damage!",""],"parameters":null}
+# {"path":"data/System.json","row":"107","tags":null}
+#. System/terms/messages/actorNoDamage
+#. System/terms/messages/enemyNoDamage
+msgctxt "tpp:data/System.json:107"
+msgid "%1 took no damage!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Miss! %1 took no damage!",""],"parameters":null}
+# {"path":"data/System.json","row":"108","tags":null}
+#. System/terms/messages/actorNoHit
+#. System/terms/messages/enemyNoHit
+msgctxt "tpp:data/System.json:108"
+msgid "Miss! %1 took no damage!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 evaded the attack!",""],"parameters":null}
+# {"path":"data/System.json","row":"109","tags":null}
+#. System/terms/messages/evasion
+msgctxt "tpp:data/System.json:109"
+msgid "%1 evaded the attack!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 nullified the magic!",""],"parameters":null}
+# {"path":"data/System.json","row":"110","tags":null}
+#. System/terms/messages/magicEvasion
+msgctxt "tpp:data/System.json:110"
+msgid "%1 nullified the magic!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 reflected the magic!",""],"parameters":null}
+# {"path":"data/System.json","row":"111","tags":null}
+#. System/terms/messages/magicReflection
+msgctxt "tpp:data/System.json:111"
+msgid "%1 reflected the magic!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 made a counterattack!",""],"parameters":null}
+# {"path":"data/System.json","row":"112","tags":null}
+#. System/terms/messages/counterAttack
+msgctxt "tpp:data/System.json:112"
+msgid "%1 made a counterattack!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1 protected %2!",""],"parameters":null}
+# {"path":"data/System.json","row":"113","tags":null}
+#. System/terms/messages/substitute
+msgctxt "tpp:data/System.json:113"
+msgid "%1 protected %2!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1’s %2 went up!",""],"parameters":null}
+# {"path":"data/System.json","row":"114","tags":null}
+#. System/terms/messages/buffAdd
+msgctxt "tpp:data/System.json:114"
+msgid "%1’s %2 went up!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1’s %2 went down!",""],"parameters":null}
+# {"path":"data/System.json","row":"115","tags":null}
+#. System/terms/messages/debuffAdd
+msgctxt "tpp:data/System.json:115"
+msgid "%1’s %2 went down!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["%1’s %2 returned to normal!",""],"parameters":null}
+# {"path":"data/System.json","row":"116","tags":null}
+#. System/terms/messages/buffRemove
+msgctxt "tpp:data/System.json:116"
+msgid "%1’s %2 returned to normal!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["There was no effect on %1!",""],"parameters":null}
+# {"path":"data/System.json","row":"117","tags":null}
+#. System/terms/messages/actionFailure
+msgctxt "tpp:data/System.json:117"
+msgid "There was no effect on %1!"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["mplus-2p-bold-sub.woff",""],"parameters":null}
+# {"path":"data/System.json","row":"118","tags":["red"]}
+#. System/advanced/numberFontFilename
+msgctxt "tpp:data/System.json:118"
+msgid "mplus-2p-bold-sub.woff"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["Verdana, sans-serif",""],"parameters":null}
+# {"path":"data/System.json","row":"119","tags":["red"]}
+#. System/advanced/fallbackFonts
+msgctxt "tpp:data/System.json:119"
+msgid "Verdana, sans-serif"
+msgstr ""
+
+# tpp-json:{"v":1,"row":["mplus-1m-regular.woff",""],"parameters":null}
+# {"path":"data/System.json","row":"120","tags":["red"]}
+#. System/advanced/mainFontFilename
+msgctxt "tpp:data/System.json:120"
+msgid "mplus-1m-regular.woff"
+msgstr ""
