@@ -7,19 +7,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "X-Generator: Translator++ Git Collab\n"
 
-# tpp-json:{"v":1,"row":["Reid",""],"parameters":null}
+# tpp-json:{"v":1,"row":["Reid","test"],"parameters":null}
 # {"path":"data/Actors.json","row":"0","tags":null}
 #. Actors/1/name
 msgctxt "tpp:data/Actors.json:0"
 msgid "Reid"
-msgstr ""
+msgstr "test"
 
-# tpp-json:{"v":1,"row":["Priscilla",""],"parameters":null}
+# tpp-json:{"v":1,"row":["Priscilla","test2"],"parameters":null}
 # {"path":"data/Actors.json","row":"1","tags":null}
 #. Actors/2/name
 msgctxt "tpp:data/Actors.json:1"
 msgid "Priscilla"
-msgstr ""
+msgstr "test2"
 
 # tpp-json:{"v":1,"row":["Gale",""],"parameters":null}
 # {"path":"data/Actors.json","row":"2","tags":null}
